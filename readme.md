@@ -24,10 +24,6 @@ import fetch from 'lol-champions'
 
 fetch().then((champions) => console.log(champions))
 //=> array of champions
-
-// without circular references
-fetch({ flat: true }).then((champions) => console.log(champions))
-//=> array of champions
 ```
 
 ### Snapshot
