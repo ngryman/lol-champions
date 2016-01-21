@@ -17,19 +17,8 @@ $ npm install --save lol-champions
 
 ## Usage
 
-### Fetch champions
-
 ```js
-import fetch from 'lol-champions'
-
-fetch().then((champions) => console.log(champions))
-//=> array of champions
-```
-
-### Snapshot
-
-```js
-import champions from 'lol-champions/champions'
+import champions from 'lol-champions'
 
 console.log(champions)
 //=> array of champions
