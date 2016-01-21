@@ -17,7 +17,7 @@
     "test": "npm run lint -s && npm run spec -s",
     "watch": "onchange {,**/}*.js -- npm test -s",
     "build": "babel-node -e \"require('./')().then((champions) => require('fs').writeFileSync('champions.json', JSON.stringify(champions, 0, 2)))\"",
-    "postinstall": "ln -nsf $(PWD)/../lib $(PWD)/node_modules/lol-champions",
+    "postinstall": "ln -nsf ../lib node_modules/lol-champions",
     "prepublish": "npm run build -s"
   },
   "keywords": [
