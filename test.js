@@ -1,4 +1,4 @@
-import fetch from './'
+import fetch from './fetch'
 import got from 'got'
 import test from 'blue-tape'
 
