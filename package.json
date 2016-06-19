@@ -28,14 +28,16 @@
     "champions",
     "api"
   ],
+  "dependencies": {
+    "got": "^6.3.0",
+    "object-values": "^1.0.0"
+  },
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-preset-es2015": "^6.9.0",
     "blue-tape": "^0.2.0",
     "eslint": "^2.13.0",
     "eslint-config-ngryman": "^1.0.0",
-    "got": "^6.3.0",
-    "object-values": "^1.0.0",
     "onchange": "^2.5.0",
     "tap-spec": "^4.0.2"
   }
