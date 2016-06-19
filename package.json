@@ -14,10 +14,10 @@
   ],
   "scripts": {
     "lint": "eslint *.js",
-    "spec": "babel-node test.js | tap-spec",
+    "spec": "babel-node test.js --presets es2015 | tap-spec",
     "test": "npm run lint -s && npm run spec -s",
     "watch": "onchange {,**/}*.js -- npm test -s",
-    "build": "babel-node -e \"require('./fetch')().then((champions) => require('fs').writeFileSync('champions.json', JSON.stringify(champions, 0, 2)))\"",
+    "build": "babel-node -e \"require('./fetch').default().then((champions) => require('fs').writeFileSync('champions.json', JSON.stringify(champions, 0, 2)))\" --presets es2015",
     "prebuild": "ln -nsf ../lib node_modules/lol-champions",
     "prepublish": "npm run build -s"
   },
@@ -29,13 +29,14 @@
     "api"
   ],
   "devDependencies": {
-    "babel": "^5.8.19",
-    "blue-tape": "^0.1.10",
-    "eslint": "^0.24.0",
-    "eslint-config-ngryman": "^0.2.0",
-    "got": "^4.1.1",
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "blue-tape": "^0.2.0",
+    "eslint": "^2.13.0",
+    "eslint-config-ngryman": "^1.0.0",
+    "got": "^6.3.0",
     "object-values": "^1.0.0",
-    "onchange": "^1.1.0",
+    "onchange": "^2.5.0",
     "tap-spec": "^4.0.2"
   }
 }
