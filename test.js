@@ -17,6 +17,9 @@ test('Transmutes "image" object into an valid URL', (t) => res
 .then((champions) => {
   let champion = champions[0]
   t.assert(!champion.image, 'image property is gone')
+  t.equal(typeof champion.sprite, 'object', 'sprite property is an object')
+  t.equal(typeof champion.sprite.x, 'number', 'sprite.x property contains x-coordinate')
+  t.equal(typeof champion.sprite.y, 'number', 'sprite.y property contains y-coordinate')
   return champion
 })
 .then((champion) => got(champion.icon)))
