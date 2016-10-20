@@ -1,6 +1,7 @@
 [
   {
     "id": "aatrox",
+    "key": "266",
     "name": "Aatrox",
     "title": "the Darkin Blade",
     "tags": [
@@ -29,9 +30,9 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Aatrox.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Aatrox.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 0,
       "y": 0
     },
@@ -39,6 +40,7 @@
   },
   {
     "id": "ahri",
+    "key": "103",
     "name": "Ahri",
     "title": "the Nine-Tailed Fox",
     "tags": [
@@ -67,9 +69,9 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Ahri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ahri.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 48,
       "y": 0
     },
@@ -77,6 +79,7 @@
   },
   {
     "id": "akali",
+    "key": "84",
     "name": "Akali",
     "title": "the Fist of Shadow",
     "tags": [
@@ -104,9 +107,9 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 3.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Akali.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Akali.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 96,
       "y": 0
     },
@@ -114,6 +117,7 @@
   },
   {
     "id": "alistar",
+    "key": "12",
     "name": "Alistar",
     "title": "the Minotaur",
     "tags": [
@@ -142,9 +146,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.125
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Alistar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Alistar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 144,
       "y": 0
     },
@@ -152,6 +156,7 @@
   },
   {
     "id": "amumu",
+    "key": "32",
     "name": "Amumu",
     "title": "the Sad Mummy",
     "tags": [
@@ -180,9 +185,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 2.18
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Amumu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Amumu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 192,
       "y": 0
     },
@@ -190,6 +195,7 @@
   },
   {
     "id": "anivia",
+    "key": "34",
     "name": "Anivia",
     "title": "the Cryophoenix",
     "tags": [
@@ -218,9 +224,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.68
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Anivia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Anivia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 240,
       "y": 0
     },
@@ -228,6 +234,7 @@
   },
   {
     "id": "annie",
+    "key": "1",
     "name": "Annie",
     "title": "the Dark Child",
     "tags": [
@@ -255,9 +262,9 @@
       "attackspeedoffset": 0.08,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Annie.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Annie.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 288,
       "y": 0
     },
@@ -265,6 +272,7 @@
   },
   {
     "id": "ashe",
+    "key": "22",
     "name": "Ashe",
     "title": "the Frost Archer",
     "tags": [
@@ -293,9 +301,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3.33
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Ashe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ashe.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 336,
       "y": 0
     },
@@ -303,11 +311,12 @@
   },
   {
     "id": "aurelionsol",
+    "key": "136",
     "name": "Aurelion Sol",
     "title": "The Star Forger",
     "tags": [
       "Mage",
-      "Figher"
+      "Fighter"
     ],
     "stats": {
       "hp": 550,
@@ -331,9 +340,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/AurelionSol.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/AurelionSol.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 384,
       "y": 0
     },
@@ -341,6 +350,7 @@
   },
   {
     "id": "azir",
+    "key": "268",
     "name": "Azir",
     "title": "the Emperor of the Sands",
     "tags": [
@@ -369,9 +379,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Azir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Azir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 432,
       "y": 0
     },
@@ -379,6 +389,7 @@
   },
   {
     "id": "bard",
+    "key": "432",
     "name": "Bard",
     "title": "the Wandering Caretaker",
     "tags": [
@@ -407,9 +418,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Bard.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Bard.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 0,
       "y": 48
     },
@@ -417,6 +428,7 @@
   },
   {
     "id": "blitzcrank",
+    "key": "53",
     "name": "Blitzcrank",
     "title": "the Great Steam Golem",
     "tags": [
@@ -445,9 +457,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.13
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Blitzcrank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Blitzcrank.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 48,
       "y": 48
     },
@@ -455,6 +467,7 @@
   },
   {
     "id": "brand",
+    "key": "63",
     "name": "Brand",
     "title": "the Burning Vengeance",
     "tags": [
@@ -482,9 +495,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Brand.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Brand.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 96,
       "y": 48
     },
@@ -492,6 +505,7 @@
   },
   {
     "id": "braum",
+    "key": "201",
     "name": "Braum",
     "title": "the Heart of the Freljord",
     "tags": [
@@ -520,9 +534,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Braum.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Braum.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 144,
       "y": 48
     },
@@ -530,6 +544,7 @@
   },
   {
     "id": "caitlyn",
+    "key": "51",
     "name": "Caitlyn",
     "title": "the Sheriff of Piltover",
     "tags": [
@@ -557,9 +572,9 @@
       "attackspeedoffset": 0.1,
       "attackspeedperlevel": 4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Caitlyn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Caitlyn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 192,
       "y": 48
     },
@@ -567,6 +582,7 @@
   },
   {
     "id": "cassiopeia",
+    "key": "69",
     "name": "Cassiopeia",
     "title": "the Serpent's Embrace",
     "tags": [
@@ -594,9 +610,9 @@
       "attackspeedoffset": -0.034,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Cassiopeia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Cassiopeia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 240,
       "y": 48
     },
@@ -604,6 +620,7 @@
   },
   {
     "id": "chogath",
+    "key": "31",
     "name": "Cho'Gath",
     "title": "the Terror of the Void",
     "tags": [
@@ -632,9 +649,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.44
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Chogath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Chogath.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 288,
       "y": 48
     },
@@ -642,6 +659,7 @@
   },
   {
     "id": "corki",
+    "key": "42",
     "name": "Corki",
     "title": "the Daring Bombardier",
     "tags": [
@@ -665,13 +683,13 @@
       "crit": 0,
       "critperlevel": 0,
       "attackdamage": 56,
-      "attackdamageperlevel": 2.5,
+      "attackdamageperlevel": 3.5,
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Corki.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Corki.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 336,
       "y": 48
     },
@@ -679,6 +697,7 @@
   },
   {
     "id": "darius",
+    "key": "122",
     "name": "Darius",
     "title": "the Hand of Noxus",
     "tags": [
@@ -707,9 +726,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Darius.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Darius.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 384,
       "y": 48
     },
@@ -717,6 +736,7 @@
   },
   {
     "id": "diana",
+    "key": "131",
     "name": "Diana",
     "title": "Scorn of the Moon",
     "tags": [
@@ -745,9 +765,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.25
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Diana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Diana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 432,
       "y": 48
     },
@@ -755,6 +775,7 @@
   },
   {
     "id": "draven",
+    "key": "119",
     "name": "Draven",
     "title": "the Glorious Executioner",
     "tags": [
@@ -782,9 +803,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Draven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Draven.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 0,
       "y": 96
     },
@@ -792,6 +813,7 @@
   },
   {
     "id": "drmundo",
+    "key": "36",
     "name": "Dr. Mundo",
     "title": "the Madman of Zaun",
     "tags": [
@@ -820,9 +842,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.8
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/DrMundo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/DrMundo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 48,
       "y": 96
     },
@@ -830,6 +852,7 @@
   },
   {
     "id": "ekko",
+    "key": "245",
     "name": "Ekko",
     "title": "the Boy Who Shattered Time",
     "tags": [
@@ -853,14 +876,14 @@
       "mpregenperlevel": 0.8,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 59,
+      "attackdamage": 55,
       "attackdamageperlevel": 3,
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Ekko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ekko.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 96,
       "y": 96
     },
@@ -868,6 +891,7 @@
   },
   {
     "id": "elise",
+    "key": "60",
     "name": "Elise",
     "title": "the Spider Queen",
     "tags": [
@@ -896,16 +920,17 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.75
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Elise.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Elise.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 144,
       "y": 96
     },
-    "description": "Elise's entrancing beauty and grace conceal the pitiless, black heart of a deadly predator. With ruthless cunning, she lures the unsuspecting with promises of favor from the spider god. Having exchanged her humanity to become something far more ..."
+    "description": "''Beauty is power too, and can strike swifter than any sword.''<br><br>Elise is a deadly predator who dwells in a shuttered, lightless palace, deep in the Immortal Bastion of Noxus. Once she was mortal, the mistress of a once-powerful house, but the ..."
   },
   {
     "id": "evelynn",
+    "key": "28",
     "name": "Evelynn",
     "title": "the Widowmaker",
     "tags": [
@@ -934,9 +959,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Evelynn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Evelynn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 192,
       "y": 96
     },
@@ -944,6 +969,7 @@
   },
   {
     "id": "ezreal",
+    "key": "81",
     "name": "Ezreal",
     "title": "the Prodigal Explorer",
     "tags": [
@@ -972,9 +998,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.8
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Ezreal.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ezreal.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 240,
       "y": 96
     },
@@ -982,6 +1008,7 @@
   },
   {
     "id": "fiddlesticks",
+    "key": "9",
     "name": "Fiddlesticks",
     "title": "the Harbinger of Doom",
     "tags": [
@@ -1010,9 +1037,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/FiddleSticks.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/FiddleSticks.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 288,
       "y": 96
     },
@@ -1020,6 +1047,7 @@
   },
   {
     "id": "fiora",
+    "key": "114",
     "name": "Fiora",
     "title": "the Grand Duelist",
     "tags": [
@@ -1048,9 +1076,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Fiora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Fiora.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 336,
       "y": 96
     },
@@ -1058,6 +1086,7 @@
   },
   {
     "id": "fizz",
+    "key": "105",
     "name": "Fizz",
     "title": "the Tidal Trickster",
     "tags": [
@@ -1086,9 +1115,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Fizz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Fizz.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 384,
       "y": 96
     },
@@ -1096,6 +1125,7 @@
   },
   {
     "id": "galio",
+    "key": "3",
     "name": "Galio",
     "title": "the Sentinel's Sorrow",
     "tags": [
@@ -1124,9 +1154,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 1.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Galio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Galio.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion0.png",
       "x": 432,
       "y": 96
     },
@@ -1134,13 +1164,14 @@
   },
   {
     "id": "gangplank",
+    "key": "41",
     "name": "Gangplank",
     "title": "the Saltwater Scourge",
     "tags": [
       "Fighter"
     ],
     "stats": {
-      "hp": 580,
+      "hp": 540,
       "hpperlevel": 82,
       "mp": 282,
       "mpperlevel": 40,
@@ -1161,9 +1192,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Gangplank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Gangplank.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 0,
       "y": 0
     },
@@ -1171,6 +1202,7 @@
   },
   {
     "id": "garen",
+    "key": "86",
     "name": "Garen",
     "title": "The Might of Demacia",
     "tags": [
@@ -1199,9 +1231,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Garen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Garen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 48,
       "y": 0
     },
@@ -1209,6 +1241,7 @@
   },
   {
     "id": "gnar",
+    "key": "150",
     "name": "Gnar",
     "title": "the Missing Link",
     "tags": [
@@ -1237,9 +1270,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Gnar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Gnar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 96,
       "y": 0
     },
@@ -1247,6 +1280,7 @@
   },
   {
     "id": "gragas",
+    "key": "79",
     "name": "Gragas",
     "title": "the Rabble Rouser",
     "tags": [
@@ -1275,9 +1309,9 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 2.05
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Gragas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Gragas.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 144,
       "y": 0
     },
@@ -1285,6 +1319,7 @@
   },
   {
     "id": "graves",
+    "key": "104",
     "name": "Graves",
     "title": "the Outlaw",
     "tags": [
@@ -1312,16 +1347,17 @@
       "attackspeedoffset": 0.3,
       "attackspeedperlevel": 2.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Graves.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Graves.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 192,
       "y": 0
     },
-    "description": "Malcolm Graves is a wanted man in every realm, city-state, and empire he has visited. Tough, strong-willed, and above all, relentless, through his life of crime he has amassed (then invariably lost) a small fortune."
+    "description": "Malcolm Graves is a wanted man in every realm, city and empire he has visited. Tough, strong-willed, and above all, relentless, through his life of crime he has amassed (then invariably lost) a small fortune."
   },
   {
     "id": "hecarim",
+    "key": "120",
     "name": "Hecarim",
     "title": "the Shadow of War",
     "tags": [
@@ -1350,9 +1386,9 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Hecarim.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Hecarim.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 240,
       "y": 0
     },
@@ -1360,6 +1396,7 @@
   },
   {
     "id": "heimerdinger",
+    "key": "74",
     "name": "Heimerdinger",
     "title": "the Revered Inventor",
     "tags": [
@@ -1388,9 +1425,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Heimerdinger.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Heimerdinger.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 288,
       "y": 0
     },
@@ -1398,6 +1435,7 @@
   },
   {
     "id": "illaoi",
+    "key": "420",
     "name": "Illaoi",
     "title": "the Kraken Priestess",
     "tags": [
@@ -1426,9 +1464,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Illaoi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Illaoi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 336,
       "y": 0
     },
@@ -1436,6 +1474,7 @@
   },
   {
     "id": "irelia",
+    "key": "39",
     "name": "Irelia",
     "title": "the Will of the Blades",
     "tags": [
@@ -1455,7 +1494,7 @@
       "attackrange": 125,
       "hpregen": 8.59,
       "hpregenperlevel": 0.65,
-      "mpregen": 8.09,
+      "mpregen": 8.1,
       "mpregenperlevel": 0.65,
       "crit": 0,
       "critperlevel": 0,
@@ -1464,16 +1503,56 @@
       "attackspeedoffset": -0.06,
       "attackspeedperlevel": 3.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Irelia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Irelia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 384,
       "y": 0
     },
     "description": "''The sword flourishes, as though painting with blood.''<br><br>The Ionians have developed some of the most breathtaking and deadly martial arts in all of Runeterra - just one manifestation of their pursuit of enlightenment. The most remarkable blade ..."
   },
   {
+    "id": "ivern",
+    "key": "427",
+    "name": "Ivern",
+    "title": "the Green Father",
+    "tags": [
+      "Support",
+      "Mage"
+    ],
+    "stats": {
+      "hp": 580,
+      "hpperlevel": 90,
+      "mp": 450,
+      "mpperlevel": 60,
+      "movespeed": 330,
+      "armor": 22,
+      "armorperlevel": 3.5,
+      "spellblock": 32.1,
+      "spellblockperlevel": 1.25,
+      "attackrange": 125,
+      "hpregen": 6.9,
+      "hpregenperlevel": 0.85,
+      "mpregen": 6,
+      "mpregenperlevel": 0.75,
+      "crit": 0,
+      "critperlevel": 0,
+      "attackdamage": 50,
+      "attackdamageperlevel": 3,
+      "attackspeedoffset": -0.03,
+      "attackspeedperlevel": 3.4
+    },
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ivern.png",
+    "sprite": {
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
+      "x": 96,
+      "y": 48
+    },
+    "description": "Ivern Bramblefoot, known to many as the Green Father, is a peculiar half man, half tree who roams Runeterra's forests, cultivating life everywhere he goes. He knows the secrets of the natural world, and holds deep friendships with all things that grow,..."
+  },
+  {
     "id": "janna",
+    "key": "40",
     "name": "Janna",
     "title": "the Storm's Fury",
     "tags": [
@@ -1502,9 +1581,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.61
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Janna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Janna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 432,
       "y": 0
     },
@@ -1512,6 +1591,7 @@
   },
   {
     "id": "jarvaniv",
+    "key": "59",
     "name": "Jarvan IV",
     "title": "the Exemplar of Demacia",
     "tags": [
@@ -1540,9 +1620,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/JarvanIV.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/JarvanIV.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 0,
       "y": 48
     },
@@ -1550,6 +1630,7 @@
   },
   {
     "id": "jax",
+    "key": "24",
     "name": "Jax",
     "title": "Grandmaster at Arms",
     "tags": [
@@ -1578,9 +1659,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Jax.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Jax.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 48,
       "y": 48
     },
@@ -1588,6 +1669,7 @@
   },
   {
     "id": "jayce",
+    "key": "126",
     "name": "Jayce",
     "title": "the Defender of Tomorrow",
     "tags": [
@@ -1616,9 +1698,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Jayce.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Jayce.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 96,
       "y": 48
     },
@@ -1626,6 +1708,7 @@
   },
   {
     "id": "jhin",
+    "key": "202",
     "name": "Jhin",
     "title": "the Virtuoso",
     "tags": [
@@ -1654,9 +1737,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 0
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Jhin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Jhin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 144,
       "y": 48
     },
@@ -1664,6 +1747,7 @@
   },
   {
     "id": "jinx",
+    "key": "222",
     "name": "Jinx",
     "title": "the Loose Cannon",
     "tags": [
@@ -1691,9 +1775,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Jinx.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Jinx.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 192,
       "y": 48
     },
@@ -1701,6 +1785,7 @@
   },
   {
     "id": "kalista",
+    "key": "429",
     "name": "Kalista",
     "title": "the Spear of Vengeance",
     "tags": [
@@ -1728,9 +1813,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Kalista.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Kalista.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 240,
       "y": 48
     },
@@ -1738,6 +1823,7 @@
   },
   {
     "id": "karma",
+    "key": "43",
     "name": "Karma",
     "title": "the Enlightened One",
     "tags": [
@@ -1766,9 +1852,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Karma.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Karma.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 288,
       "y": 48
     },
@@ -1776,6 +1862,7 @@
   },
   {
     "id": "karthus",
+    "key": "30",
     "name": "Karthus",
     "title": "the Deathsinger",
     "tags": [
@@ -1803,9 +1890,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Karthus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Karthus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 336,
       "y": 48
     },
@@ -1813,6 +1900,7 @@
   },
   {
     "id": "kassadin",
+    "key": "38",
     "name": "Kassadin",
     "title": "the Void Walker",
     "tags": [
@@ -1841,9 +1929,9 @@
       "attackspeedoffset": -0.023,
       "attackspeedperlevel": 3.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Kassadin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Kassadin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 384,
       "y": 48
     },
@@ -1851,6 +1939,7 @@
   },
   {
     "id": "katarina",
+    "key": "55",
     "name": "Katarina",
     "title": "the Sinister Blade",
     "tags": [
@@ -1879,9 +1968,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.74
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Katarina.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Katarina.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 432,
       "y": 48
     },
@@ -1889,6 +1978,7 @@
   },
   {
     "id": "kayle",
+    "key": "10",
     "name": "Kayle",
     "title": "The Judicator",
     "tags": [
@@ -1917,9 +2007,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 2.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Kayle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Kayle.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 0,
       "y": 96
     },
@@ -1927,6 +2017,7 @@
   },
   {
     "id": "kennen",
+    "key": "85",
     "name": "Kennen",
     "title": "the Heart of the Tempest",
     "tags": [
@@ -1955,9 +2046,9 @@
       "attackspeedoffset": -0.0947,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Kennen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Kennen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 48,
       "y": 96
     },
@@ -1965,6 +2056,7 @@
   },
   {
     "id": "khazix",
+    "key": "121",
     "name": "Kha'Zix",
     "title": "the Voidreaver",
     "tags": [
@@ -1993,9 +2085,9 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Khazix.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Khazix.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 96,
       "y": 96
     },
@@ -2003,6 +2095,7 @@
   },
   {
     "id": "kindred",
+    "key": "203",
     "name": "Kindred",
     "title": "The Eternal Hunters",
     "tags": [
@@ -2030,16 +2123,56 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Kindred.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Kindred.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 144,
       "y": 96
     },
     "description": "''Tell me again, little Lamb, which things are ours to take?''<br>''All things, Dear Wolf.''<br>Separate, but never parted, Kindred represents the twin essences of death. Lamb's arrow offers a swift release for those who accept their fate. Wolf hunts ..."
   },
   {
+    "id": "kled",
+    "key": "240",
+    "name": "Kled",
+    "title": "the Cantankerous Cavalier",
+    "tags": [
+      "Fighter",
+      "Tank"
+    ],
+    "stats": {
+      "hp": 340,
+      "hpperlevel": 70,
+      "mp": 100,
+      "mpperlevel": 0,
+      "movespeed": 345,
+      "armor": 26,
+      "armorperlevel": 4,
+      "spellblock": 32.1,
+      "spellblockperlevel": 1.25,
+      "attackrange": 125,
+      "hpregen": 6,
+      "hpregenperlevel": 0.75,
+      "mpregen": 0,
+      "mpregenperlevel": 0,
+      "crit": 0,
+      "critperlevel": 0,
+      "attackdamage": 55,
+      "attackdamageperlevel": 3,
+      "attackspeedoffset": 0,
+      "attackspeedperlevel": 3.5
+    },
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Kled.png",
+    "sprite": {
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
+      "x": 48,
+      "y": 48
+    },
+    "description": "''A sane man would run . . . but I ain't the runnin' kind!''<br><br>A warrior as fearless as he is ornery, Kled is a popular folk hero in Noxus. Embodying the furious bravado of his nation, he is an icon beloved by the empire's soldiers, distrusted by ..."
+  },
+  {
     "id": "kogmaw",
+    "key": "96",
     "name": "Kog'Maw",
     "title": "the Mouth of the Abyss",
     "tags": [
@@ -2065,12 +2198,12 @@
       "critperlevel": 0,
       "attackdamage": 57.46,
       "attackdamageperlevel": 2.41,
-      "attackspeedoffset": 0,
-      "attackspeedperlevel": 3.5
+      "attackspeedoffset": -0.06,
+      "attackspeedperlevel": 2.65
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/KogMaw.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/KogMaw.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 192,
       "y": 96
     },
@@ -2078,6 +2211,7 @@
   },
   {
     "id": "leblanc",
+    "key": "7",
     "name": "LeBlanc",
     "title": "the Deceiver",
     "tags": [
@@ -2106,9 +2240,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Leblanc.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Leblanc.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 240,
       "y": 96
     },
@@ -2116,6 +2250,7 @@
   },
   {
     "id": "leesin",
+    "key": "64",
     "name": "Lee Sin",
     "title": "the Blind Monk",
     "tags": [
@@ -2144,9 +2279,9 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/LeeSin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/LeeSin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 288,
       "y": 96
     },
@@ -2154,6 +2289,7 @@
   },
   {
     "id": "leona",
+    "key": "89",
     "name": "Leona",
     "title": "the Radiant Dawn",
     "tags": [
@@ -2182,9 +2318,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Leona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Leona.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 336,
       "y": 96
     },
@@ -2192,6 +2328,7 @@
   },
   {
     "id": "lissandra",
+    "key": "127",
     "name": "Lissandra",
     "title": "the Ice Witch",
     "tags": [
@@ -2199,7 +2336,7 @@
     ],
     "stats": {
       "hp": 506.12,
-      "hpperlevel": 84,
+      "hpperlevel": 75,
       "mp": 304,
       "mpperlevel": 50,
       "movespeed": 325,
@@ -2219,9 +2356,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Lissandra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Lissandra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 384,
       "y": 96
     },
@@ -2229,6 +2366,7 @@
   },
   {
     "id": "lucian",
+    "key": "236",
     "name": "Lucian",
     "title": "the Purifier",
     "tags": [
@@ -2256,9 +2394,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Lucian.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Lucian.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion1.png",
       "x": 432,
       "y": 96
     },
@@ -2266,6 +2404,7 @@
   },
   {
     "id": "lulu",
+    "key": "117",
     "name": "Lulu",
     "title": "the Fae Sorceress",
     "tags": [
@@ -2294,9 +2433,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.25
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Lulu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Lulu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 0,
       "y": 0
     },
@@ -2304,6 +2443,7 @@
   },
   {
     "id": "lux",
+    "key": "99",
     "name": "Lux",
     "title": "the Lady of Luminosity",
     "tags": [
@@ -2332,9 +2472,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Lux.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Lux.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 48,
       "y": 0
     },
@@ -2342,6 +2482,7 @@
   },
   {
     "id": "malphite",
+    "key": "54",
     "name": "Malphite",
     "title": "Shard of the Monolith",
     "tags": [
@@ -2370,9 +2511,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Malphite.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Malphite.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 96,
       "y": 0
     },
@@ -2380,6 +2521,7 @@
   },
   {
     "id": "malzahar",
+    "key": "90",
     "name": "Malzahar",
     "title": "the Prophet of the Void",
     "tags": [
@@ -2408,9 +2550,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Malzahar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Malzahar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 144,
       "y": 0
     },
@@ -2418,6 +2560,7 @@
   },
   {
     "id": "maokai",
+    "key": "57",
     "name": "Maokai",
     "title": "the Twisted Treant",
     "tags": [
@@ -2446,16 +2589,17 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 2.125
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Maokai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Maokai.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 192,
       "y": 0
     },
-    "description": "Maokai was once a peaceful nature spirit dwelling in an idyllic forest, but the arrogance of humans brought an end to that life. Now he is a gnarled shadow of his former self, twisted by dark magics that defied the natural order of life and death. ..."
+    "description": "''All around me are empty husks, soulless and unafraid... but I will bring them fear.''<br><br>Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical ..."
   },
   {
     "id": "masteryi",
+    "key": "11",
     "name": "Master Yi",
     "title": "the Wuju Bladesman",
     "tags": [
@@ -2484,9 +2628,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/MasterYi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/MasterYi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 240,
       "y": 0
     },
@@ -2494,6 +2638,7 @@
   },
   {
     "id": "missfortune",
+    "key": "21",
     "name": "Miss Fortune",
     "title": "the Bounty Hunter",
     "tags": [
@@ -2521,9 +2666,9 @@
       "attackspeedoffset": -0.04734,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/MissFortune.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/MissFortune.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 288,
       "y": 0
     },
@@ -2531,6 +2676,7 @@
   },
   {
     "id": "monkeyking",
+    "key": "62",
     "name": "Wukong",
     "title": "the Monkey King",
     "tags": [
@@ -2559,9 +2705,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/MonkeyKing.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/MonkeyKing.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 336,
       "y": 0
     },
@@ -2569,6 +2715,7 @@
   },
   {
     "id": "mordekaiser",
+    "key": "82",
     "name": "Mordekaiser",
     "title": "the Iron Revenant",
     "tags": [
@@ -2596,9 +2743,9 @@
       "attackspeedoffset": 0.04,
       "attackspeedperlevel": 2.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Mordekaiser.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Mordekaiser.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 384,
       "y": 0
     },
@@ -2606,6 +2753,7 @@
   },
   {
     "id": "morgana",
+    "key": "25",
     "name": "Morgana",
     "title": "Fallen Angel",
     "tags": [
@@ -2634,9 +2782,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.53
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Morgana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Morgana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 432,
       "y": 0
     },
@@ -2644,6 +2792,7 @@
   },
   {
     "id": "nami",
+    "key": "267",
     "name": "Nami",
     "title": "the Tidecaller",
     "tags": [
@@ -2672,9 +2821,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.61
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Nami.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Nami.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 0,
       "y": 48
     },
@@ -2682,6 +2831,7 @@
   },
   {
     "id": "nasus",
+    "key": "75",
     "name": "Nasus",
     "title": "the Curator of the Sands",
     "tags": [
@@ -2710,9 +2860,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.48
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Nasus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Nasus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 48,
       "y": 48
     },
@@ -2720,6 +2870,7 @@
   },
   {
     "id": "nautilus",
+    "key": "111",
     "name": "Nautilus",
     "title": "the Titan of the Depths",
     "tags": [
@@ -2748,9 +2899,9 @@
       "attackspeedoffset": 0.02,
       "attackspeedperlevel": 1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Nautilus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Nautilus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 96,
       "y": 48
     },
@@ -2758,6 +2909,7 @@
   },
   {
     "id": "nidalee",
+    "key": "76",
     "name": "Nidalee",
     "title": "the Bestial Huntress",
     "tags": [
@@ -2786,9 +2938,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.22
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Nidalee.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Nidalee.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 144,
       "y": 48
     },
@@ -2796,6 +2948,7 @@
   },
   {
     "id": "nocturne",
+    "key": "56",
     "name": "Nocturne",
     "title": "the Eternal Nightmare",
     "tags": [
@@ -2824,9 +2977,9 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Nocturne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Nocturne.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 192,
       "y": 48
     },
@@ -2834,6 +2987,7 @@
   },
   {
     "id": "nunu",
+    "key": "20",
     "name": "Nunu",
     "title": "the Yeti Rider",
     "tags": [
@@ -2857,14 +3011,14 @@
       "mpregenperlevel": 0.5,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 56.856,
-      "attackdamageperlevel": 3.45,
+      "attackdamage": 59,
+      "attackdamageperlevel": 4,
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.25
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Nunu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Nunu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 240,
       "y": 48
     },
@@ -2872,6 +3026,7 @@
   },
   {
     "id": "olaf",
+    "key": "2",
     "name": "Olaf",
     "title": "the Berserker",
     "tags": [
@@ -2900,9 +3055,9 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Olaf.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Olaf.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 288,
       "y": 48
     },
@@ -2910,6 +3065,7 @@
   },
   {
     "id": "orianna",
+    "key": "61",
     "name": "Orianna",
     "title": "the Lady of Clockwork",
     "tags": [
@@ -2938,9 +3094,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Orianna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Orianna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 336,
       "y": 48
     },
@@ -2948,6 +3104,7 @@
   },
   {
     "id": "pantheon",
+    "key": "80",
     "name": "Pantheon",
     "title": "the Artisan of War",
     "tags": [
@@ -2976,9 +3133,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.95
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Pantheon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Pantheon.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 384,
       "y": 48
     },
@@ -2986,6 +3143,7 @@
   },
   {
     "id": "poppy",
+    "key": "78",
     "name": "Poppy",
     "title": "Keeper of the Hammer",
     "tags": [
@@ -2997,7 +3155,7 @@
       "hpperlevel": 90,
       "mp": 280,
       "mpperlevel": 40,
-      "movespeed": 340,
+      "movespeed": 345,
       "armor": 29,
       "armorperlevel": 3.5,
       "spellblock": 32,
@@ -3014,9 +3172,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Poppy.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Poppy.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 432,
       "y": 48
     },
@@ -3024,6 +3182,7 @@
   },
   {
     "id": "quinn",
+    "key": "133",
     "name": "Quinn",
     "title": "Demacia's Wings",
     "tags": [
@@ -3052,9 +3211,9 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 3.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Quinn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Quinn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 0,
       "y": 96
     },
@@ -3062,6 +3221,7 @@
   },
   {
     "id": "rammus",
+    "key": "33",
     "name": "Rammus",
     "title": "the Armordillo",
     "tags": [
@@ -3090,9 +3250,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.215
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Rammus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Rammus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 48,
       "y": 96
     },
@@ -3100,6 +3260,7 @@
   },
   {
     "id": "reksai",
+    "key": "421",
     "name": "Rek'Sai",
     "title": "the Void Burrower",
     "tags": [
@@ -3111,8 +3272,8 @@
       "mp": 100,
       "mpperlevel": 0,
       "movespeed": 335,
-      "armor": 28.3,
-      "armorperlevel": 3.75,
+      "armor": 24,
+      "armorperlevel": 3.4,
       "spellblock": 32.1,
       "spellblockperlevel": 1.25,
       "attackrange": 175,
@@ -3127,9 +3288,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/RekSai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/RekSai.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 96,
       "y": 96
     },
@@ -3137,6 +3298,7 @@
   },
   {
     "id": "renekton",
+    "key": "58",
     "name": "Renekton",
     "title": "the Butcher of the Sands",
     "tags": [
@@ -3165,9 +3327,9 @@
       "attackspeedoffset": -0.06,
       "attackspeedperlevel": 2.65
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Renekton.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Renekton.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 144,
       "y": 96
     },
@@ -3175,6 +3337,7 @@
   },
   {
     "id": "rengar",
+    "key": "107",
     "name": "Rengar",
     "title": "the Pridestalker",
     "tags": [
@@ -3203,9 +3366,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 2.85
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Rengar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Rengar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 192,
       "y": 96
     },
@@ -3213,6 +3376,7 @@
   },
   {
     "id": "riven",
+    "key": "92",
     "name": "Riven",
     "title": "the Exile",
     "tags": [
@@ -3241,9 +3405,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Riven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Riven.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 240,
       "y": 96
     },
@@ -3251,6 +3415,7 @@
   },
   {
     "id": "rumble",
+    "key": "68",
     "name": "Rumble",
     "title": "the Mechanized Menace",
     "tags": [
@@ -3279,9 +3444,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 1.85
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Rumble.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Rumble.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 288,
       "y": 96
     },
@@ -3289,6 +3454,7 @@
   },
   {
     "id": "ryze",
+    "key": "13",
     "name": "Ryze",
     "title": "the Rune Mage",
     "tags": [
@@ -3317,9 +3483,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.112
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Ryze.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ryze.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 336,
       "y": 96
     },
@@ -3327,6 +3493,7 @@
   },
   {
     "id": "sejuani",
+    "key": "113",
     "name": "Sejuani",
     "title": "the Winter's Wrath",
     "tags": [
@@ -3355,9 +3522,9 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 1.44
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Sejuani.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Sejuani.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 384,
       "y": 96
     },
@@ -3365,6 +3532,7 @@
   },
   {
     "id": "shaco",
+    "key": "35",
     "name": "Shaco",
     "title": "the Demon Jester",
     "tags": [
@@ -3392,9 +3560,9 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Shaco.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Shaco.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion2.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion2.png",
       "x": 432,
       "y": 96
     },
@@ -3402,6 +3570,7 @@
   },
   {
     "id": "shen",
+    "key": "98",
     "name": "Shen",
     "title": "the Eye of Twilight",
     "tags": [
@@ -3430,9 +3599,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Shen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Shen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 0,
       "y": 0
     },
@@ -3440,6 +3609,7 @@
   },
   {
     "id": "shyvana",
+    "key": "102",
     "name": "Shyvana",
     "title": "the Half-Dragon",
     "tags": [
@@ -3468,9 +3638,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Shyvana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Shyvana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 48,
       "y": 0
     },
@@ -3478,6 +3648,7 @@
   },
   {
     "id": "singed",
+    "key": "27",
     "name": "Singed",
     "title": "the Mad Chemist",
     "tags": [
@@ -3506,9 +3677,9 @@
       "attackspeedoffset": 0.02,
       "attackspeedperlevel": 1.81
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Singed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Singed.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 96,
       "y": 0
     },
@@ -3516,6 +3687,7 @@
   },
   {
     "id": "sion",
+    "key": "14",
     "name": "Sion",
     "title": "The Undead Juggernaut",
     "tags": [
@@ -3544,9 +3716,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 1.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Sion.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Sion.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 144,
       "y": 0
     },
@@ -3554,6 +3726,7 @@
   },
   {
     "id": "sivir",
+    "key": "15",
     "name": "Sivir",
     "title": "the Battle Mistress",
     "tags": [
@@ -3581,9 +3754,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Sivir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Sivir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 192,
       "y": 0
     },
@@ -3591,6 +3764,7 @@
   },
   {
     "id": "skarner",
+    "key": "72",
     "name": "Skarner",
     "title": "the Crystal Vanguard",
     "tags": [
@@ -3619,9 +3793,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Skarner.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Skarner.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 240,
       "y": 0
     },
@@ -3629,6 +3803,7 @@
   },
   {
     "id": "sona",
+    "key": "37",
     "name": "Sona",
     "title": "Maven of the Strings",
     "tags": [
@@ -3657,9 +3832,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Sona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Sona.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 288,
       "y": 0
     },
@@ -3667,6 +3842,7 @@
   },
   {
     "id": "soraka",
+    "key": "16",
     "name": "Soraka",
     "title": "the Starchild",
     "tags": [
@@ -3695,9 +3871,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.14
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Soraka.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Soraka.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 336,
       "y": 0
     },
@@ -3705,6 +3881,7 @@
   },
   {
     "id": "swain",
+    "key": "50",
     "name": "Swain",
     "title": "the Master Tactician",
     "tags": [
@@ -3733,9 +3910,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Swain.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Swain.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 384,
       "y": 0
     },
@@ -3743,6 +3920,7 @@
   },
   {
     "id": "syndra",
+    "key": "134",
     "name": "Syndra",
     "title": "the Dark Sovereign",
     "tags": [
@@ -3771,9 +3949,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Syndra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Syndra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 432,
       "y": 0
     },
@@ -3781,6 +3959,7 @@
   },
   {
     "id": "tahmkench",
+    "key": "223",
     "name": "Tahm Kench",
     "title": "the River King",
     "tags": [
@@ -3809,9 +3988,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/TahmKench.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/TahmKench.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 0,
       "y": 48
     },
@@ -3819,6 +3998,7 @@
   },
   {
     "id": "taliyah",
+    "key": "163",
     "name": "Taliyah",
     "title": "the Stoneweaver",
     "tags": [
@@ -3836,7 +4016,7 @@
       "spellblock": 30,
       "spellblockperlevel": 0,
       "attackrange": 525,
-      "hpregen": 6,
+      "hpregen": 7,
       "hpregenperlevel": 0.7,
       "mpregen": 7,
       "mpregenperlevel": 0.85,
@@ -3847,9 +4027,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Taliyah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Taliyah.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 48,
       "y": 48
     },
@@ -3857,6 +4037,7 @@
   },
   {
     "id": "talon",
+    "key": "91",
     "name": "Talon",
     "title": "the Blade's Shadow",
     "tags": [
@@ -3885,9 +4066,9 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Talon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Talon.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 96,
       "y": 48
     },
@@ -3895,6 +4076,7 @@
   },
   {
     "id": "taric",
+    "key": "44",
     "name": "Taric",
     "title": "the Shield of Valoran",
     "tags": [
@@ -3923,9 +4105,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Taric.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Taric.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 144,
       "y": 48
     },
@@ -3933,6 +4115,7 @@
   },
   {
     "id": "teemo",
+    "key": "17",
     "name": "Teemo",
     "title": "the Swift Scout",
     "tags": [
@@ -3961,9 +4144,9 @@
       "attackspeedoffset": -0.0947,
       "attackspeedperlevel": 3.38
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Teemo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Teemo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 192,
       "y": 48
     },
@@ -3971,6 +4154,7 @@
   },
   {
     "id": "thresh",
+    "key": "412",
     "name": "Thresh",
     "title": "the Chain Warden",
     "tags": [
@@ -3999,9 +4183,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Thresh.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Thresh.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 240,
       "y": 48
     },
@@ -4009,6 +4193,7 @@
   },
   {
     "id": "tristana",
+    "key": "18",
     "name": "Tristana",
     "title": "the Yordle Gunner",
     "tags": [
@@ -4037,9 +4222,9 @@
       "attackspeedoffset": -0.04734,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Tristana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Tristana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 288,
       "y": 48
     },
@@ -4047,6 +4232,7 @@
   },
   {
     "id": "trundle",
+    "key": "48",
     "name": "Trundle",
     "title": "the Troll King",
     "tags": [
@@ -4075,9 +4261,9 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Trundle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Trundle.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 336,
       "y": 48
     },
@@ -4085,6 +4271,7 @@
   },
   {
     "id": "tryndamere",
+    "key": "23",
     "name": "Tryndamere",
     "title": "the Barbarian King",
     "tags": [
@@ -4113,9 +4300,9 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Tryndamere.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Tryndamere.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 384,
       "y": 48
     },
@@ -4123,6 +4310,7 @@
   },
   {
     "id": "twistedfate",
+    "key": "4",
     "name": "Twisted Fate",
     "title": "the Card Master",
     "tags": [
@@ -4150,9 +4338,9 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 3.22
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/TwistedFate.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/TwistedFate.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 432,
       "y": 48
     },
@@ -4160,6 +4348,7 @@
   },
   {
     "id": "twitch",
+    "key": "29",
     "name": "Twitch",
     "title": "the Plague Rat",
     "tags": [
@@ -4188,9 +4377,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 3.38
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Twitch.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Twitch.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 0,
       "y": 96
     },
@@ -4198,6 +4387,7 @@
   },
   {
     "id": "udyr",
+    "key": "77",
     "name": "Udyr",
     "title": "the Spirit Walker",
     "tags": [
@@ -4226,9 +4416,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Udyr.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Udyr.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 48,
       "y": 96
     },
@@ -4236,6 +4426,7 @@
   },
   {
     "id": "urgot",
+    "key": "6",
     "name": "Urgot",
     "title": "the Headsman's Pride",
     "tags": [
@@ -4264,9 +4455,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Urgot.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Urgot.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 96,
       "y": 96
     },
@@ -4274,6 +4465,7 @@
   },
   {
     "id": "varus",
+    "key": "110",
     "name": "Varus",
     "title": "the Arrow of Retribution",
     "tags": [
@@ -4302,9 +4494,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Varus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Varus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 144,
       "y": 96
     },
@@ -4312,6 +4504,7 @@
   },
   {
     "id": "vayne",
+    "key": "67",
     "name": "Vayne",
     "title": "the Night Hunter",
     "tags": [
@@ -4340,9 +4533,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Vayne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Vayne.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 192,
       "y": 96
     },
@@ -4350,6 +4543,7 @@
   },
   {
     "id": "veigar",
+    "key": "45",
     "name": "Veigar",
     "title": "the Tiny Master of Evil",
     "tags": [
@@ -4377,9 +4571,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.24
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Veigar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Veigar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 240,
       "y": 96
     },
@@ -4387,6 +4581,7 @@
   },
   {
     "id": "velkoz",
+    "key": "161",
     "name": "Vel'Koz",
     "title": "the Eye of the Void",
     "tags": [
@@ -4414,9 +4609,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Velkoz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Velkoz.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 288,
       "y": 96
     },
@@ -4424,6 +4619,7 @@
   },
   {
     "id": "vi",
+    "key": "254",
     "name": "Vi",
     "title": "the Piltover Enforcer",
     "tags": [
@@ -4452,9 +4648,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Vi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Vi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 336,
       "y": 96
     },
@@ -4462,6 +4658,7 @@
   },
   {
     "id": "viktor",
+    "key": "112",
     "name": "Viktor",
     "title": "the Machine Herald",
     "tags": [
@@ -4489,9 +4686,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Viktor.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Viktor.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 384,
       "y": 96
     },
@@ -4499,6 +4696,7 @@
   },
   {
     "id": "vladimir",
+    "key": "8",
     "name": "Vladimir",
     "title": "the Crimson Reaper",
     "tags": [
@@ -4506,7 +4704,7 @@
       "Tank"
     ],
     "stats": {
-      "hp": 550,
+      "hp": 525,
       "hpperlevel": 84,
       "mp": 2,
       "mpperlevel": 0,
@@ -4527,9 +4725,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Vladimir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Vladimir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion3.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion3.png",
       "x": 432,
       "y": 96
     },
@@ -4537,6 +4735,7 @@
   },
   {
     "id": "volibear",
+    "key": "106",
     "name": "Volibear",
     "title": "the Thunder's Roar",
     "tags": [
@@ -4565,9 +4764,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Volibear.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Volibear.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 0,
       "y": 0
     },
@@ -4575,6 +4774,7 @@
   },
   {
     "id": "warwick",
+    "key": "19",
     "name": "Warwick",
     "title": "the Blood Hunter",
     "tags": [
@@ -4603,9 +4803,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 2.88
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Warwick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Warwick.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 48,
       "y": 0
     },
@@ -4613,6 +4813,7 @@
   },
   {
     "id": "xerath",
+    "key": "101",
     "name": "Xerath",
     "title": "the Magus Ascendant",
     "tags": [
@@ -4641,9 +4842,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Xerath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Xerath.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 96,
       "y": 0
     },
@@ -4651,6 +4852,7 @@
   },
   {
     "id": "xinzhao",
+    "key": "5",
     "name": "Xin Zhao",
     "title": "the Seneschal of Demacia",
     "tags": [
@@ -4679,9 +4881,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/XinZhao.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/XinZhao.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 144,
       "y": 0
     },
@@ -4689,6 +4891,7 @@
   },
   {
     "id": "yasuo",
+    "key": "157",
     "name": "Yasuo",
     "title": "the Unforgiven",
     "tags": [
@@ -4714,12 +4917,12 @@
       "critperlevel": 0,
       "attackdamage": 55.376,
       "attackdamageperlevel": 3.2,
-      "attackspeedoffset": -0.05,
-      "attackspeedperlevel": 3.2
+      "attackspeedoffset": -0.067,
+      "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Yasuo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Yasuo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 192,
       "y": 0
     },
@@ -4727,44 +4930,46 @@
   },
   {
     "id": "yorick",
+    "key": "83",
     "name": "Yorick",
-    "title": "the Gravedigger",
+    "title": "Shepherd of Souls",
     "tags": [
       "Fighter",
-      "Mage"
+      "Tank"
     ],
     "stats": {
-      "hp": 563.8,
-      "hpperlevel": 85,
-      "mp": 293.8,
-      "mpperlevel": 35,
-      "movespeed": 345,
-      "armor": 25.048,
-      "armorperlevel": 3.6,
-      "spellblock": 32.1,
+      "hp": 580,
+      "hpperlevel": 100,
+      "mp": 300,
+      "mpperlevel": 40,
+      "movespeed": 340,
+      "armor": 30,
+      "armorperlevel": 4,
+      "spellblock": 32,
       "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.175,
-      "hpregenperlevel": 0.7,
-      "mpregen": 6.755,
-      "mpregenperlevel": 0.45,
+      "attackrange": 175,
+      "hpregen": 8,
+      "hpregenperlevel": 0.8,
+      "mpregen": 7.5,
+      "mpregenperlevel": 0.75,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 57.58,
-      "attackdamageperlevel": 3.5,
+      "attackdamage": 57,
+      "attackdamageperlevel": 5,
       "attackspeedoffset": 0,
-      "attackspeedperlevel": 3
+      "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Yorick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Yorick.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 240,
       "y": 0
     },
-    "description": "A terrifying and tragic figure, Yorick is a ghoulish being that exists on the edge of mortality. Some say he was the last of his family line, dying without an heir to continue its legacy, and that he was cursed to continue his family's duty even after ..."
+    "description": "''These isles… How they scream.''<br>The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that ..."
   },
   {
     "id": "zac",
+    "key": "154",
     "name": "Zac",
     "title": "the Secret Weapon",
     "tags": [
@@ -4793,9 +4998,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 1.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Zac.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Zac.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 288,
       "y": 0
     },
@@ -4803,6 +5008,7 @@
   },
   {
     "id": "zed",
+    "key": "238",
     "name": "Zed",
     "title": "the Master of Shadows",
     "tags": [
@@ -4831,9 +5037,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Zed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Zed.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 336,
       "y": 0
     },
@@ -4841,6 +5047,7 @@
   },
   {
     "id": "ziggs",
+    "key": "115",
     "name": "Ziggs",
     "title": "the Hexplosives Expert",
     "tags": [
@@ -4868,9 +5075,9 @@
       "attackspeedoffset": -0.04734,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Ziggs.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Ziggs.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 384,
       "y": 0
     },
@@ -4878,6 +5085,7 @@
   },
   {
     "id": "zilean",
+    "key": "26",
     "name": "Zilean",
     "title": "the Chronokeeper",
     "tags": [
@@ -4906,9 +5114,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.13
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Zilean.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Zilean.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 432,
       "y": 0
     },
@@ -4916,6 +5124,7 @@
   },
   {
     "id": "zyra",
+    "key": "143",
     "name": "Zyra",
     "title": "Rise of the Thorns",
     "tags": [
@@ -4944,9 +5153,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/champion/Zyra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/champion/Zyra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/6.15.1/img/sprite/champion4.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/6.21.1/img/sprite/champion4.png",
       "x": 0,
       "y": 48
     },
