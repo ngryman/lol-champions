@@ -35,6 +35,5 @@ test('Keeps a set of properties', (t) => res.then((champions) => {
   t.assert(!champion.version, 'version property is gone')
   t.assert(!champion.info, 'info property is gone')
   t.assert(!champion.blurb, 'blurb property is gone')
-  t.assert(!champion.key, 'key property is gone')
   t.assert(!champion.partype, 'partype property is gone')
 }))
