@@ -29,7 +29,7 @@
     "api"
   ],
   "dependencies": {
-    "got": "^6.5.0",
+    "got": "^7.0.0",
     "object-values": "^1.0.0"
   },
   "devDependencies": {
