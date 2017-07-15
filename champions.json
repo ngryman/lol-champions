@@ -30,9 +30,9 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Aatrox.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Aatrox.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 0,
       "y": 0
     },
@@ -56,7 +56,7 @@
       "armor": 20.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.508,
       "hpregenperlevel": 0.6,
@@ -69,9 +69,9 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ahri.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ahri.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 48,
       "y": 0
     },
@@ -107,9 +107,9 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 3.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Akali.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Akali.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 96,
       "y": 0
     },
@@ -146,9 +146,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.125
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Alistar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Alistar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 144,
       "y": 0
     },
@@ -185,9 +185,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 2.18
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Amumu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Amumu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 192,
       "y": 0
     },
@@ -211,7 +211,7 @@
       "armor": 21.22,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 600,
       "hpregen": 5.574,
       "hpregenperlevel": 0.55,
@@ -224,9 +224,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.68
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Anivia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Anivia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 240,
       "y": 0
     },
@@ -249,7 +249,7 @@
       "armor": 19.22,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 575,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -262,9 +262,9 @@
       "attackspeedoffset": 0.08,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Annie.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Annie.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 288,
       "y": 0
     },
@@ -288,7 +288,7 @@
       "armor": 21.212,
       "armorperlevel": 3.4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 600,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -301,9 +301,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3.33
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ashe.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ashe.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 336,
       "y": 0
     },
@@ -327,7 +327,7 @@
       "armor": 19,
       "armorperlevel": 3.6,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.5,
       "hpregenperlevel": 0.6,
@@ -340,9 +340,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/AurelionSol.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/AurelionSol.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 384,
       "y": 0
     },
@@ -366,7 +366,7 @@
       "armor": 19.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 6.924,
       "hpregenperlevel": 0.55,
@@ -379,9 +379,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Azir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Azir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 432,
       "y": 0
     },
@@ -405,7 +405,7 @@
       "armor": 25,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 5.4,
       "hpregenperlevel": 0.55,
@@ -418,9 +418,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Bard.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Bard.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 0,
       "y": 48
     },
@@ -457,9 +457,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.13
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Blitzcrank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Blitzcrank.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 48,
       "y": 48
     },
@@ -482,7 +482,7 @@
       "armor": 21.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -495,9 +495,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Brand.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Brand.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 96,
       "y": 48
     },
@@ -534,9 +534,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Braum.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Braum.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 144,
       "y": 48
     },
@@ -559,7 +559,7 @@
       "armor": 22.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 650,
       "hpregen": 5.674,
       "hpregenperlevel": 0.55,
@@ -569,12 +569,12 @@
       "critperlevel": 0,
       "attackdamage": 53.66,
       "attackdamageperlevel": 2.18,
-      "attackspeedoffset": 0.1,
-      "attackspeedperlevel": 4
+      "attackspeedoffset": 0.15,
+      "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Caitlyn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Caitlyn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 192,
       "y": 48
     },
@@ -611,9 +611,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Camille.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Camille.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 240,
       "y": 48
     },
@@ -636,7 +636,7 @@
       "armor": 25,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.5,
       "hpregenperlevel": 0.5,
@@ -649,9 +649,9 @@
       "attackspeedoffset": -0.034,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Cassiopeia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Cassiopeia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 288,
       "y": 48
     },
@@ -688,9 +688,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.44
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Chogath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Chogath.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 336,
       "y": 48
     },
@@ -713,7 +713,7 @@
       "armor": 23.38,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -721,14 +721,14 @@
       "mpregenperlevel": 0.55,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 56,
+      "attackdamage": 58,
       "attackdamageperlevel": 3.5,
-      "attackspeedoffset": 0,
+      "attackspeedoffset": -0.02,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Corki.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Corki.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 384,
       "y": 48
     },
@@ -765,9 +765,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Darius.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Darius.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 432,
       "y": 48
     },
@@ -804,9 +804,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.25
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Diana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Diana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 0,
       "y": 96
     },
@@ -829,7 +829,7 @@
       "armor": 25.544,
       "armorperlevel": 3.3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.176,
       "hpregenperlevel": 0.7,
@@ -842,9 +842,9 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Draven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Draven.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 48,
       "y": 96
     },
@@ -877,13 +877,13 @@
       "crit": 0,
       "critperlevel": 0,
       "attackdamage": 61.27,
-      "attackdamageperlevel": 3,
+      "attackdamageperlevel": 3.5,
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.8
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/DrMundo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/DrMundo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 96,
       "y": 96
     },
@@ -920,9 +920,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ekko.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ekko.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 144,
       "y": 96
     },
@@ -946,7 +946,7 @@
       "armor": 22.128,
       "armorperlevel": 3.35,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.708,
       "hpregenperlevel": 0.6,
@@ -959,9 +959,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.75
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Elise.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Elise.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 192,
       "y": 96
     },
@@ -998,9 +998,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Evelynn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Evelynn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 240,
       "y": 96
     },
@@ -1024,7 +1024,7 @@
       "armor": 21.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.424,
       "hpregenperlevel": 0.55,
@@ -1037,9 +1037,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.8
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ezreal.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ezreal.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 288,
       "y": 96
     },
@@ -1063,7 +1063,7 @@
       "armor": 20.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 480,
       "hpregen": 5.608,
       "hpregenperlevel": 0.6,
@@ -1076,9 +1076,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Fiddlesticks.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Fiddlesticks.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 336,
       "y": 96
     },
@@ -1115,9 +1115,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Fiora.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Fiora.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 384,
       "y": 96
     },
@@ -1154,9 +1154,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Fizz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Fizz.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion0.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion0.png",
       "x": 432,
       "y": 96
     },
@@ -1177,7 +1177,7 @@
       "mp": 400,
       "mpperlevel": 40,
       "movespeed": 335,
-      "armor": 27,
+      "armor": 24,
       "armorperlevel": 3.5,
       "spellblock": 32,
       "spellblockperlevel": 1.25,
@@ -1193,9 +1193,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Galio.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Galio.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 0,
       "y": 0
     },
@@ -1231,9 +1231,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Gangplank.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Gangplank.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 48,
       "y": 0
     },
@@ -1270,9 +1270,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Garen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Garen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 96,
       "y": 0
     },
@@ -1296,7 +1296,7 @@
       "armor": 23,
       "armorperlevel": 2.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 175,
       "hpregen": 4.5,
       "hpregenperlevel": 1.75,
@@ -1309,9 +1309,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Gnar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Gnar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 144,
       "y": 0
     },
@@ -1348,9 +1348,9 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 2.05
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Gragas.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Gragas.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 192,
       "y": 0
     },
@@ -1373,7 +1373,7 @@
       "armor": 24.376,
       "armorperlevel": 3.4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 425,
       "hpregen": 6.676,
       "hpregenperlevel": 0.7,
@@ -1386,9 +1386,9 @@
       "attackspeedoffset": 0.3,
       "attackspeedperlevel": 2.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Graves.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Graves.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 240,
       "y": 0
     },
@@ -1425,9 +1425,9 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Hecarim.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Hecarim.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 288,
       "y": 0
     },
@@ -1451,10 +1451,10 @@
       "armor": 19.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
-      "hpregen": 11.008,
-      "hpregenperlevel": 1.75,
+      "hpregen": 7,
+      "hpregenperlevel": 0.55,
       "mpregen": 6,
       "mpregenperlevel": 0.8,
       "crit": 0,
@@ -1464,9 +1464,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Heimerdinger.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Heimerdinger.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 336,
       "y": 0
     },
@@ -1503,9 +1503,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Illaoi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Illaoi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 384,
       "y": 0
     },
@@ -1542,9 +1542,9 @@
       "attackspeedoffset": -0.06,
       "attackspeedperlevel": 3.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Irelia.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Irelia.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 432,
       "y": 0
     },
@@ -1564,7 +1564,7 @@
       "hpperlevel": 90,
       "mp": 450,
       "mpperlevel": 60,
-      "movespeed": 330,
+      "movespeed": 325,
       "armor": 22,
       "armorperlevel": 3.5,
       "spellblock": 32.1,
@@ -1581,9 +1581,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ivern.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ivern.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 0,
       "y": 48
     },
@@ -1607,7 +1607,7 @@
       "armor": 19.384,
       "armorperlevel": 3.8,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 475,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -1620,9 +1620,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.61
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Janna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Janna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 48,
       "y": 48
     },
@@ -1659,9 +1659,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/JarvanIV.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/JarvanIV.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 96,
       "y": 48
     },
@@ -1698,9 +1698,9 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Jax.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Jax.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 144,
       "y": 48
     },
@@ -1724,7 +1724,7 @@
       "armor": 22.38,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 125,
       "hpregen": 7.344,
       "hpregenperlevel": 0.8,
@@ -1737,9 +1737,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Jayce.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Jayce.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 192,
       "y": 48
     },
@@ -1763,7 +1763,7 @@
       "armor": 20,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6,
       "hpregenperlevel": 0.55,
@@ -1776,9 +1776,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 0
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Jhin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Jhin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 240,
       "y": 48
     },
@@ -1801,7 +1801,7 @@
       "armor": 22.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.84,
       "hpregenperlevel": 0.5,
@@ -1814,9 +1814,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Jinx.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Jinx.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 288,
       "y": 48
     },
@@ -1839,7 +1839,7 @@
       "armor": 19.012,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6,
       "hpregenperlevel": 0.55,
@@ -1852,9 +1852,9 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Kalista.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kalista.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 336,
       "y": 48
     },
@@ -1878,7 +1878,7 @@
       "armor": 20.384,
       "armorperlevel": 3.8,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.624,
       "hpregenperlevel": 0.55,
@@ -1891,9 +1891,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Karma.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Karma.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 384,
       "y": 48
     },
@@ -1916,7 +1916,7 @@
       "armor": 20.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 450,
       "hpregen": 6.424,
       "hpregenperlevel": 0.55,
@@ -1929,9 +1929,9 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Karthus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Karthus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 432,
       "y": 48
     },
@@ -1955,7 +1955,7 @@
       "armor": 23.376,
       "armorperlevel": 3.2,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 150,
       "hpregen": 7.79,
       "hpregenperlevel": 0.5,
@@ -1968,9 +1968,9 @@
       "attackspeedoffset": -0.023,
       "attackspeedperlevel": 3.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Kassadin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kassadin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 0,
       "y": 96
     },
@@ -2007,9 +2007,9 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.74
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Katarina.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Katarina.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 48,
       "y": 96
     },
@@ -2033,7 +2033,7 @@
       "armor": 26.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 125,
       "hpregen": 8.26,
       "hpregenperlevel": 0.75,
@@ -2046,13 +2046,52 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 2.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Kayle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kayle.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
       "x": 96,
       "y": 96
     },
     "description": "In a world far away where an ancient war still rages, Kayle was a great hero - the strongest of an immortal race committed to destroying evil wherever it could be found. For ten thousand years, Kayle fought tirelessly for her people, wielding her..."
+  },
+  {
+    "id": "kayn",
+    "key": "141",
+    "name": "Kayn",
+    "title": "the Shadow Reaper",
+    "tags": [
+      "Fighter",
+      "Assassin"
+    ],
+    "stats": {
+      "hp": 585,
+      "hpperlevel": 85,
+      "mp": 410,
+      "mpperlevel": 50,
+      "movespeed": 340,
+      "armor": 29,
+      "armorperlevel": 3.3,
+      "spellblock": 32.1,
+      "spellblockperlevel": 1.25,
+      "attackrange": 175,
+      "hpregen": 8,
+      "hpregenperlevel": 0.75,
+      "mpregen": 11.5,
+      "mpregenperlevel": 0.95,
+      "crit": 0,
+      "critperlevel": 0,
+      "attackdamage": 60,
+      "attackdamageperlevel": 2.8,
+      "attackspeedoffset": 0,
+      "attackspeedperlevel": 2.7
+    },
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kayn.png",
+    "sprite": {
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 144,
+      "y": 96
+    },
+    "description": "“The child is gone. The killer remains.”<br><br>A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of the Shadow into a new era of Ionian supremacy. He audaciously wields the..."
   },
   {
     "id": "kennen",
@@ -2072,7 +2111,7 @@
       "armor": 24.3,
       "armorperlevel": 3.75,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.592,
       "hpregenperlevel": 0.65,
@@ -2085,10 +2124,10 @@
       "attackspeedoffset": -0.0947,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Kennen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kennen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 192,
       "y": 96
     },
     "description": "There exists an ancient order originating in the Ionian Isles dedicated to the preservation of balance. Order, chaos, light, darkness -- all things must exist in perfect harmony for such is the way of the universe. This order is known as the Kinkou and..."
@@ -2124,10 +2163,10 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Khazix.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Khazix.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 240,
       "y": 96
     },
     "description": "A vicious Void predator, Kha'Zix infiltrated Valoran to devour the land's most promising creatures. With each kill he absorbs his prey's strength, evolving to grow more powerful. Kha'Zix hungers most to conquer and consume Rengar, the one beast he..."
@@ -2149,7 +2188,7 @@
       "armor": 20,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 7,
       "hpregenperlevel": 0.55,
@@ -2157,15 +2196,15 @@
       "mpregenperlevel": 0.4,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 54,
-      "attackdamageperlevel": 1.7,
+      "attackdamage": 57,
+      "attackdamageperlevel": 2.26,
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Kindred.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kindred.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 288,
       "y": 96
     },
     "description": "''Tell me again, little Lamb, which things are ours to take?''<br>''All things, Dear Wolf.''<br>Separate, but never parted, Kindred represents the twin essences of death. Lamb's arrow offers a swift release for those who accept their fate. Wolf hunts..."
@@ -2201,10 +2240,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Kled.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Kled.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 336,
       "y": 96
     },
     "description": "''A sane man would run . . . but I ain't the runnin' kind!''<br><br>A warrior as fearless as he is ornery, Kled is a popular folk hero in Noxus. Embodying the furious bravado of his nation, he is an icon beloved by the empire's soldiers, distrusted by..."
@@ -2227,7 +2266,7 @@
       "armor": 19.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 5.924,
       "hpregenperlevel": 0.55,
@@ -2240,10 +2279,10 @@
       "attackspeedoffset": -0.06,
       "attackspeedperlevel": 2.65
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/KogMaw.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/KogMaw.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 384,
       "y": 96
     },
     "description": "''If that's just hungry, I don't want to see angry.''<br><br>When the prophet Malzahar was reborn in Icathia, he was led there by an ominous voice which thereafter anchored itself to his psyche. From within, this voice bestowed upon him terrible purpose..."
@@ -2266,7 +2305,7 @@
       "armor": 21.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 7.4,
       "hpregenperlevel": 0.55,
@@ -2279,10 +2318,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Leblanc.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Leblanc.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion1.png",
+      "x": 432,
       "y": 96
     },
     "description": "Every city has its dark side, even one whose reputation is already of a questionable hue. Noxus - though its name is already invoked with a mixture of reverence and revulsion - is no exception to this simple truth. Deep within the winding dungeons that..."
@@ -2301,7 +2340,7 @@
       "hpperlevel": 85,
       "mp": 200,
       "mpperlevel": 0,
-      "movespeed": 350,
+      "movespeed": 345,
       "armor": 24.216,
       "armorperlevel": 3.7,
       "spellblock": 32.1,
@@ -2318,11 +2357,11 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/LeeSin.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/LeeSin.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion1.png",
-      "x": 432,
-      "y": 96
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 0,
+      "y": 0
     },
     "description": "As a young teen, Lee Sin was intent on becoming a summoner. His will and dedication were unmatched by any of his peers, and his skill drew the attention of Reginald Ashram, the League's High Councilor at the time. While studying at the Arcanum Majoris..."
   },
@@ -2357,10 +2396,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Leona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Leona.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 48,
       "y": 0
     },
     "description": "''If you would shine like a sun, first you must burn like one.''<br><br>Imbued with the fire of the sun, Leona is a warrior templar of the Solari who defends Mount Targon with her Zenith Blade and Shield of Daybreak. Her skin shimmers with starfire..."
@@ -2382,7 +2421,7 @@
       "armor": 20.216,
       "armorperlevel": 3.7,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.924,
       "hpregenperlevel": 0.55,
@@ -2395,10 +2434,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Lissandra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Lissandra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 96,
       "y": 0
     },
     "description": "Lissandra's magic twists the pure power of ice into something dark and terrible. With the force of her black ice, she does more than freeze - she impales and crushes those who oppose her. To the terrified denizens of the north, she is known only as..."
@@ -2420,7 +2459,7 @@
       "armor": 24.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 6.192,
       "hpregenperlevel": 0.65,
@@ -2433,10 +2472,10 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Lucian.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Lucian.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 144,
       "y": 0
     },
     "description": "Lucian wields relic weapons imbued with ancient power and stands a stalwart guardian against the undead. His cold conviction never wavers, even in the face of the maddening horrors he destroys beneath his hail of purifying fire. Lucian walks alone on a..."
@@ -2451,7 +2490,7 @@
       "Mage"
     ],
     "stats": {
-      "hp": 552.76,
+      "hp": 525,
       "hpperlevel": 74,
       "mp": 350,
       "mpperlevel": 55,
@@ -2459,7 +2498,7 @@
       "armor": 19.216,
       "armorperlevel": 3.7,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.008,
       "hpregenperlevel": 0.6,
@@ -2472,10 +2511,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.25
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Lulu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Lulu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 192,
       "y": 0
     },
     "description": "Perhaps more than any other champion in the League, Lulu marches to the beat of her own drum. During her youth in Bandle City, she spent most of her time wandering alone in the forest or lost in a daydream. It wasn't that she was antisocial; the..."
@@ -2498,7 +2537,7 @@
       "armor": 18.72,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -2511,10 +2550,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Lux.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Lux.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 240,
       "y": 0
     },
     "description": "Born to the prestigious Crownguards, the paragon family of Demacian service, Luxanna was destined for greatness. She grew up as the family's only daughter, and she immediately took to the advanced education and lavish parties required of families as..."
@@ -2550,10 +2589,10 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Malphite.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Malphite.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 288,
       "y": 0
     },
     "description": "There is a world of perfect harmony, where all are part of the whole. The Monolith is the essence of all creation, and its denizens are but singular pieces of it. It is beautiful in its symmetry, and in its almost complete lack of uncertainty. The rocky..."
@@ -2576,7 +2615,7 @@
       "armor": 18,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 6,
       "hpregenperlevel": 0.6,
@@ -2589,10 +2628,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Malzahar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Malzahar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 336,
       "y": 0
     },
     "description": "Many men have gone mad beneath the glare of the Shurima sun, but it was during the night's chilling embrace that Malzahar relinquished his sanity. Malzahar was born a seer, blessed with the gift of prophecy. His talent, though unrefined, promised to be..."
@@ -2607,31 +2646,31 @@
       "Mage"
     ],
     "stats": {
-      "hp": 572.2,
-      "hpperlevel": 90,
+      "hp": 565,
+      "hpperlevel": 95,
       "mp": 377.28,
       "mpperlevel": 43,
       "movespeed": 335,
-      "armor": 28.72,
+      "armor": 30,
       "armorperlevel": 4,
       "spellblock": 32.1,
       "spellblockperlevel": 1.25,
       "attackrange": 125,
-      "hpregen": 7,
+      "hpregen": 5,
       "hpregenperlevel": 0.75,
-      "mpregen": 7.206,
-      "mpregenperlevel": 0.45,
+      "mpregen": 7.2,
+      "mpregenperlevel": 0.6,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 63.544,
+      "attackdamage": 63.54,
       "attackdamageperlevel": 3.3,
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 2.125
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Maokai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Maokai.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 384,
       "y": 0
     },
     "description": "''All around me are empty husks, soulless and unafraid... but I will bring them fear.''<br><br>Maokai is a rageful, towering treant who fights the unnatural horrors of the Shadow Isles. He was twisted into a force of vengeance after a magical cataclysm..."
@@ -2667,10 +2706,10 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/MasterYi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/MasterYi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 432,
       "y": 0
     },
     "description": "Through the ancient martial art of Wuju, Master Yi has tempered his body and sharpened his mind until thought and action have become one. Though he chooses to enter into violence as a last resort, the grace and speed with which he wields his blade..."
@@ -2692,7 +2731,7 @@
       "armor": 24.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.192,
       "hpregenperlevel": 0.65,
@@ -2705,11 +2744,11 @@
       "attackspeedoffset": -0.0473,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/MissFortune.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/MissFortune.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 432,
-      "y": 0
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 0,
+      "y": 48
     },
     "description": "''The bigger the risk, the bigger the bounty.''<br><br>Beauty and danger: There are few who can match Miss Fortune in either. One of Bilgewater's most infamous bounty hunters, she built her legend upon a swathe of bullet-riddled corpses and captured..."
   },
@@ -2744,10 +2783,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/MonkeyKing.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/MonkeyKing.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 48,
       "y": 48
     },
     "description": "During the chaos of the Rune Wars, an enormous runestone was lost deep within the Plague Jungles. It remained there, untouched for centuries, emanating a potent magic which infused nearby wildlife with sentience and vitality. A group of monkeys who were..."
@@ -2782,10 +2821,10 @@
       "attackspeedoffset": 0.04,
       "attackspeedperlevel": 2.2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Mordekaiser.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Mordekaiser.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 96,
       "y": 48
     },
     "description": "''All things must die... and yet I live on.''<br><br>The baleful revenant Mordekaiser is among the most terrifying and hateful spirits haunting the Shadow Isles. He has existed for countless centuries, shielded from true death by necromantic sorcery and..."
@@ -2808,7 +2847,7 @@
       "armor": 25.384,
       "armorperlevel": 3.8,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 450,
       "hpregen": 5.708,
       "hpregenperlevel": 0.6,
@@ -2821,10 +2860,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.53
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Morgana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Morgana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 144,
       "y": 48
     },
     "description": "There is a world far away populated by graceful and beautiful winged beings gifted with immortality, where an ancient conflict still rages. Like so many conflicts, this war split families. One side proclaimed themselves as beings of perfect order and..."
@@ -2847,7 +2886,7 @@
       "armor": 19.72,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -2860,10 +2899,10 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.61
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Nami.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Nami.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 192,
       "y": 48
     },
     "description": "Nami channels the primal energies of the ocean, harnessing its mystical restorative properties and commanding the raw power of the tides themselves. Though many doubted her, Nami had the bravery and determination to take on a dangerous quest when no one..."
@@ -2899,10 +2938,10 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.48
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Nasus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Nasus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 240,
       "y": 48
     },
     "description": "''What was fallen will be great again.''<br><br>Nasus is an imposing, jackal-headed Ascended being from ancient Shurima, a heroic figure regarded as a demigod by the people of the desert. Fiercely intelligent, he was a guardian of knowledge and peerless..."
@@ -2938,10 +2977,10 @@
       "attackspeedoffset": 0.02,
       "attackspeedperlevel": 1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Nautilus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Nautilus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 288,
       "y": 48
     },
     "description": "Once, Nautilus was a sailor commissioned by the Institute of War to explore the uncharted reaches of the Guardian's Sea. This expedition took him deep into unknown waters where he and his crew found a vast section of black oozing liquid that none of the..."
@@ -2964,7 +3003,7 @@
       "armor": 22.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 6.008,
       "hpregenperlevel": 0.6,
@@ -2977,10 +3016,10 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 3.22
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Nidalee.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Nidalee.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 336,
       "y": 48
     },
     "description": "There are few dwellers, let alone champions, residing in the blasted and dangerous lands that lie south of the Great Barrier. Much of that world still bears the scars of past Runes Wars, especially the mysterious Kumungu Jungle. There are long-forgotten..."
@@ -3016,10 +3055,10 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Nocturne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Nocturne.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 384,
       "y": 48
     },
     "description": "Before Nocturne, people believed that dreams were figments of their imagination, meaningless images that flashed through the mind when one slept. This belief was put to the test when a rash of sleep-related incidents started afflicting summoners of the..."
@@ -3039,12 +3078,12 @@
       "mp": 283.56,
       "mpperlevel": 42,
       "movespeed": 350,
-      "armor": 26.38,
+      "armor": 23,
       "armorperlevel": 3.5,
       "spellblock": 32.1,
       "spellblockperlevel": 1.25,
       "attackrange": 125,
-      "hpregen": 7,
+      "hpregen": 5,
       "hpregenperlevel": 0.8,
       "mpregen": 7.44,
       "mpregenperlevel": 0.5,
@@ -3055,10 +3094,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.25
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Nunu.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Nunu.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 432,
       "y": 48
     },
     "description": "Sometimes bonds of friendship become stronger than even bonds of blood. When those bonds link a fearless boy to a fearsome Yeti, the bond becomes a force to be reckoned with. Given the responsibility of taming a terrifying beast, Nunu forged a..."
@@ -3094,11 +3133,11 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 2.7
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Olaf.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Olaf.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 432,
-      "y": 48
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 0,
+      "y": 96
     },
     "description": "Most men would say that death is a thing to be feared; none of those men would be Olaf. The Berserker lives only for the roar of a battle cry and the clash of steel. Spurred on by his hunger for glory and the looming curse of a forgettable death, Olaf..."
   },
@@ -3120,7 +3159,7 @@
       "armor": 17.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 6.874,
       "hpregenperlevel": 0.55,
@@ -3133,10 +3172,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Orianna.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Orianna.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 48,
       "y": 96
     },
     "description": "There once was a Piltovian man named Corin Reveck who had a daughter named Orianna, whom he loved more than anything else in the world. Though Orianna had incredible talent for dancing, she was deeply fascinated by the champions of the League of Legends..."
@@ -3172,10 +3211,10 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.95
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Pantheon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Pantheon.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 96,
       "y": 96
     },
     "description": "''Bring forth one true champion, or a hundred more like you, and then we shall have a battle that will be spoken of until the end of time.''<br><br>The peerless warrior known as Pantheon is a nigh-unstoppable paragon of battle. He was born among the..."
@@ -3211,10 +3250,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Poppy.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Poppy.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 144,
       "y": 96
     },
     "description": "''I'm no hero. Just a yordle with a hammer.''<br><br>Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing a hammer twice the length of her body, this determined yordle has spent untold years searching for the ''Hero..."
@@ -3237,7 +3276,7 @@
       "armor": 23.38,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -3250,10 +3289,10 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 3.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Quinn.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Quinn.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 192,
       "y": 96
     },
     "description": "Quinn and Valor are an elite ranger team. With crossbow and claw, they undertake their nation's most dangerous missions deep within enemy territory, from swift reconnaissance to lethal strikes. The pair's unbreakable bond is deadly on the battlefield..."
@@ -3275,7 +3314,7 @@
       "armor": 24,
       "armorperlevel": 3.9,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 300,
       "hpregen": 5,
       "hpregenperlevel": 0.5,
@@ -3288,10 +3327,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Rakan.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Rakan.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 240,
       "y": 96
     },
     "description": "As mercurial as he is charming, Rakan is an infamous vastayan troublemaker and the greatest battle-dancer in Lhotlan tribal history. To the humans of the Ionian highlands, his name has long been synonymous with wild festivals, uncontrollable parties..."
@@ -3327,10 +3366,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.215
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Rammus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Rammus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 288,
       "y": 96
     },
     "description": "''OK.''<br><br>Idolized by many, dismissed by some, mystifying to all, the curious being, Rammus, is an enigma. Protected by a spiked shell, Rammus inspires increasingly disparate theories on his origin wherever he goes - from demigod, to sacred oracle..."
@@ -3345,12 +3384,12 @@
     ],
     "stats": {
       "hp": 570,
-      "hpperlevel": 90,
+      "hpperlevel": 85,
       "mp": 100,
       "mpperlevel": 0,
       "movespeed": 335,
       "armor": 24,
-      "armorperlevel": 3.4,
+      "armorperlevel": 3.75,
       "spellblock": 32.1,
       "spellblockperlevel": 1.25,
       "attackrange": 175,
@@ -3360,15 +3399,15 @@
       "mpregenperlevel": 0,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 55.628,
+      "attackdamage": 57.5,
       "attackdamageperlevel": 3.35,
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/RekSai.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/RekSai.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 336,
       "y": 96
     },
     "description": "The largest and fiercest of her species, Rek'Sai is a merciless predator that tunnels through the earth to ambush and devour her prey. Her insatiable hunger has laid waste to entire regions of the once-great Shuriman empire. Merchants, traders and armed..."
@@ -3404,10 +3443,10 @@
       "attackspeedoffset": -0.06,
       "attackspeedperlevel": 2.65
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Renekton.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Renekton.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 384,
       "y": 96
     },
     "description": "''Blood and vengeance.''<br><br>Renekton is a terrifying, rage-fueled Ascended being from the scorched deserts of Shurima. Once, he was his empire's most esteemed warrior, leading the armies of Shurima to countless victories. However, after the empire's..."
@@ -3443,10 +3482,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Rengar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Rengar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion2.png",
+      "x": 432,
       "y": 96
     },
     "description": "On every wall of his den, the trophy hunter Rengar mounts the heads, horns, claws, and fangs of the most lethal creatures in Valoran. Though his collection is extensive, he remains unsatisfied, tirelessly seeking greater game. He takes time with every..."
@@ -3482,11 +3521,11 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Riven.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Riven.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion2.png",
-      "x": 432,
-      "y": 96
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 0,
+      "y": 0
     },
     "description": "''There is a place between war and murder in which our demons lurk.''<br><br>In Noxus, any citizen may rise to power regardless of race, gender, or social standing - strength is all that matters. It was with committed faith in this ideal that Riven..."
   },
@@ -3521,10 +3560,10 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 1.85
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Rumble.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Rumble.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 48,
       "y": 0
     },
     "description": "''Ugh, it's gonna take forever to scrape your face off my suit!''<br><br>Even amongst yordles, Rumble was always the runt of the litter. As such, he was used to being bullied. In order to survive, he had to be scrappier and more resourceful than his..."
@@ -3547,7 +3586,7 @@
       "armor": 21.552,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 7,
       "hpregenperlevel": 0.55,
@@ -3560,10 +3599,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.112
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ryze.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ryze.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 96,
       "y": 0
     },
     "description": "''Take care with this world. What is made can be unmade.''<br><br>Widely considered one of the most adept sorcerers on Runeterra, Ryze is an ancient, hard-bitten archmage with an impossibly heavy burden to bear. Armed with a boundless constitution and a..."
@@ -3572,37 +3611,37 @@
     "id": "sejuani",
     "key": "113",
     "name": "Sejuani",
-    "title": "the Winter's Wrath",
+    "title": "Fury of the North",
     "tags": [
       "Tank",
       "Fighter"
     ],
     "stats": {
-      "hp": 600,
+      "hp": 560,
       "hpperlevel": 95,
       "mp": 400,
       "mpperlevel": 40,
       "movespeed": 340,
-      "armor": 29.54,
-      "armorperlevel": 3,
+      "armor": 27,
+      "armorperlevel": 4,
       "spellblock": 32.1,
       "spellblockperlevel": 1.25,
-      "attackrange": 125,
-      "hpregen": 8.678,
+      "attackrange": 150,
+      "hpregen": 8.5,
       "hpregenperlevel": 0.85,
-      "mpregen": 7.206,
-      "mpregenperlevel": 0.45,
+      "mpregen": 7,
+      "mpregenperlevel": 0.7,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 57.544,
-      "attackdamageperlevel": 3.3,
-      "attackspeedoffset": -0.0672,
-      "attackspeedperlevel": 1.44
+      "attackdamage": 56,
+      "attackdamageperlevel": 3,
+      "attackspeedoffset": 0,
+      "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Sejuani.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Sejuani.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 144,
       "y": 0
     },
     "description": "Sejuani was weaned on hardship and reared on barbarity. Where others succumbed to the harshness of the Freljord, she was tempered by it until pain became power, hunger an encouragement, and frost an ally in culling the weak. Through her ordeals, she..."
@@ -3637,10 +3676,10 @@
       "attackspeedoffset": -0.1,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Shaco.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Shaco.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 192,
       "y": 0
     },
     "description": "Most would say that death isn't funny. It isn't, unless you're Shaco - then it's hysterical. He is Valoran's first fully functioning homicidal comic; he jests until someone dies, and then he laughs. The figure that has come to be known as the Demon..."
@@ -3675,10 +3714,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Shen.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Shen.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 240,
       "y": 0
     },
     "description": "''The Eye is blind to fear, to hate, to love - to all things that would sway equilibrium.''<br><br>Leader of a secret clan of mystic warriors, Shen serves as the Eye of Twilight, entrusted to enforce equilibrium in the world. Longing to remain free from..."
@@ -3714,10 +3753,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Shyvana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Shyvana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 288,
       "y": 0
     },
     "description": "A half-breed born from the union between dragon and human, Shyvana searched all her life for belonging. Persecution forged her into a brutal warrior, and those who dare stand against Shyvana face the fiery beast lurking just beneath her skin..."
@@ -3732,8 +3771,8 @@
       "Fighter"
     ],
     "stats": {
-      "hp": 542.76,
-      "hpperlevel": 82,
+      "hp": 610,
+      "hpperlevel": 90,
       "mp": 290.6,
       "mpperlevel": 45,
       "movespeed": 345,
@@ -3753,10 +3792,10 @@
       "attackspeedoffset": 0.02,
       "attackspeedperlevel": 1.81
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Singed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Singed.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 336,
       "y": 0
     },
     "description": "Singed descended from a long line of Zaun's revered chemists. Even in his youth, his talent for concocting potions far outstripped that of his peers, and he quickly distinguished himself from his less extraordinary chemist compatriots. It came as no..."
@@ -3792,10 +3831,10 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 1.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Sion.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Sion.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 384,
       "y": 0
     },
     "description": "BLOOD.<br><br>SMELL IT.<br><br>WANT. ACHING. NEED!<br><br>CLOSE NOW. THEY COME.<br><br>NO CHAINS? FREE! KILL!<br><br>IN REACH. YES! DIE! DIE!<br><br>Gone. Too quick. No fight. More. I want... more.<br><br>A voice? Unfamiliar. I see him. The Grand..."
@@ -3817,7 +3856,7 @@
       "armor": 22.21,
       "armorperlevel": 3.25,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 5.174,
       "hpregenperlevel": 0.55,
@@ -3830,10 +3869,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Sivir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Sivir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 432,
       "y": 0
     },
     "description": "''I don't care what face is on your coin, as long as it pays.''<br><br>Sivir is a renowned fortune hunter and mercenary captain who plies her trade in the deserts of Shurima. Armed with her legendary jeweled crossblade, she has fought and won countless..."
@@ -3869,11 +3908,11 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Skarner.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Skarner.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 432,
-      "y": 0
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 0,
+      "y": 48
     },
     "description": "''We are one. We cannot be shattered.''<br><br>Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their..."
   },
@@ -3895,7 +3934,7 @@
       "armor": 20.544,
       "armorperlevel": 3.3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -3908,10 +3947,10 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Sona.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Sona.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 48,
       "y": 48
     },
     "description": "Sona has no memories of her true parents. As an infant, she was found abandoned on the doorstep of an Ionian adoption house, nestled atop an ancient instrument in an exquisite case of unknown origins. She was an unusually well-behaved child, always..."
@@ -3934,7 +3973,7 @@
       "armor": 23.384,
       "armorperlevel": 3.8,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 2.5,
       "hpregenperlevel": 0.5,
@@ -3947,10 +3986,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.14
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Soraka.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Soraka.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 96,
       "y": 48
     },
     "description": "A healer gifted with the magic of the stars, Soraka holds all living creatures close to her heart. She was once a celestial being, but she sacrificed her immortality and entered the world of mortals. So long as evil threatens life in Valoran, Soraka..."
@@ -3973,7 +4012,7 @@
       "armor": 22.72,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 7.842,
       "hpregenperlevel": 0.65,
@@ -3986,10 +4025,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Swain.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Swain.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 144,
       "y": 48
     },
     "description": "The earliest account of Swain's existence comes from a Noxian infirmary doctor's notes. According to them, Swain limped into the ward without cry or complaint; his right leg was snapped in half, with bone protruding from the skin. A small, scowling bird..."
@@ -4012,7 +4051,7 @@
       "armor": 24.712,
       "armorperlevel": 3.4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.508,
       "hpregenperlevel": 0.6,
@@ -4025,10 +4064,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Syndra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Syndra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 192,
       "y": 48
     },
     "description": "Born with immense magical potential, Syndra loves nothing more than exercising the incredible power at her command. With each passing day, her mastery of magical force grows more potent and devastating. Refusing any notion of balance or restraint..."
@@ -4064,10 +4103,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/TahmKench.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/TahmKench.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 240,
       "y": 48
     },
     "description": "''The whole world's a river, and I'm its king.''<br>Tahm Kench travels Runeterra's waterways, feeding his insatiable appetite with the misery of the unsuspecting. The singularly charming gourmand savors every moment of his victims' suffering.  A deal..."
@@ -4090,7 +4129,7 @@
       "armor": 20,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 7,
       "hpregenperlevel": 0.7,
@@ -4103,10 +4142,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Taliyah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Taliyah.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 288,
       "y": 48
     },
     "description": "Taliyah is a nomadic mage from Shurima who weaves stone with energetic enthusiasm and raw determination. Torn between teenage wonder and adult responsibility, she has crossed nearly all of Valoran on a journey to learn the true nature of her growing..."
@@ -4142,10 +4181,10 @@
       "attackspeedoffset": -0.065,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Talon.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Talon.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 336,
       "y": 48
     },
     "description": "''The three deadliest blademasters in all of Valoran are bound to the house of Du Couteau: my father, myself, and Talon. Challenge us, if you dare.''<br>-- Katarina Du Couteau<br><br>Talon's earliest memories are the darkness of Noxus' underground..."
@@ -4172,8 +4211,8 @@
       "attackrange": 150,
       "hpregen": 6,
       "hpregenperlevel": 0.5,
-      "mpregen": 5,
-      "mpregenperlevel": 1,
+      "mpregen": 8.5,
+      "mpregenperlevel": 0.8,
       "crit": 0,
       "critperlevel": 0,
       "attackdamage": 55,
@@ -4181,10 +4220,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Taric.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Taric.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 384,
       "y": 48
     },
     "description": "''The best weapons are beautiful.''<br><br>Taric is the Aspect of the Protector, wielding incredible power as Runeterra's guardian of life, love, and beauty. Shamed by a dereliction of duty and exiled from his homeland Demacia, Taric ascended Mount..."
@@ -4207,7 +4246,7 @@
       "armor": 24.3,
       "armorperlevel": 3.75,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 500,
       "hpregen": 5.742,
       "hpregenperlevel": 0.65,
@@ -4220,10 +4259,10 @@
       "attackspeedoffset": -0.0947,
       "attackspeedperlevel": 3.38
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Teemo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Teemo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 432,
       "y": 48
     },
     "description": "Teemo is a legend among his yordle brothers and sisters in Bandle City. As far as yordles are concerned, there is something just slightly off about him. While Teemo enjoys the companionship of other yordles, he also insists on frequent solo missions in..."
@@ -4246,7 +4285,7 @@
       "armor": 16,
       "armorperlevel": 0,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 450,
       "hpregen": 6.924,
       "hpregenperlevel": 0.55,
@@ -4259,11 +4298,11 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Thresh.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Thresh.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 432,
-      "y": 48
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 0,
+      "y": 96
     },
     "description": "''The mind is a wondrous thing to tear apart.''<br><br>Sadistic and cunning, Thresh is a restless spirit who prides himself on tormenting mortals and breaking them with slow, excruciating inventiveness. His victims suffer far beyond the point of death..."
   },
@@ -4285,7 +4324,7 @@
       "armor": 22,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.192,
       "hpregenperlevel": 0.65,
@@ -4298,10 +4337,10 @@
       "attackspeedoffset": -0.0473,
       "attackspeedperlevel": 1.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Tristana.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Tristana.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 48,
       "y": 96
     },
     "description": "Greatness comes in all shapes and sizes, as proven by this diminutive, cannon-wielding yordle. In a world fraught with turmoil, Tristana refuses to back down from any challenge. She represents the pinnacle of martial proficiency, unwavering courage, and..."
@@ -4337,10 +4376,10 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Trundle.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Trundle.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 96,
       "y": 96
     },
     "description": "Trundle is a hulking and devious troll with a mischievous streak. There is nothing he can't beat into submission and bend to his will, not even the ice itself. With his massive, frozen club, he chills his enemies to the core and runs them through with..."
@@ -4376,10 +4415,10 @@
       "attackspeedoffset": -0.0672,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Tryndamere.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Tryndamere.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 144,
       "y": 96
     },
     "description": "Fueled by his unbridled fury and rage, Tryndamere cuts his way through the tundra, mastering the art of battle by challenging the Freljord's greatest warriors. The wrathful barbarian seeks revenge on the one who decimated his clan and strikes down all..."
@@ -4401,7 +4440,7 @@
       "armor": 20.542,
       "armorperlevel": 3.15,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.508,
       "hpregenperlevel": 0.6,
@@ -4414,10 +4453,10 @@
       "attackspeedoffset": -0.04,
       "attackspeedperlevel": 3.22
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/TwistedFate.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/TwistedFate.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 192,
       "y": 96
     },
     "description": "Twisted Fate is an infamous card sharp and swindler who has gambled and charmed his way across much of the known world, earning the enmity and admiration of the rich and foolish alike. He rarely takes things seriously, greeting each day with a mocking..."
@@ -4440,7 +4479,7 @@
       "armor": 23.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.008,
       "hpregenperlevel": 0.6,
@@ -4453,10 +4492,10 @@
       "attackspeedoffset": -0.08,
       "attackspeedperlevel": 3.38
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Twitch.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Twitch.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 240,
       "y": 96
     },
     "description": "H.I.V.E. Incident Report<br>Code Violation: Industrial Homicide<br>Casefile Status: Unsolved<br>Investigating Agent: Rol, P.<br><br>Team responded to report of suspicious character, criminal activity; proceeded to Sump Works, Sector 90TZ. Sector 90TZ..."
@@ -4492,10 +4531,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Udyr.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Udyr.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 288,
       "y": 96
     },
     "description": "Udyr is more than a man; he is a vessel for the untamed power of four primal animal spirits. When tapping into the spirits' bestial natures, Udyr can harness their unique strengths: the tiger grants him speed and ferocity, the turtle resilience, the..."
@@ -4518,7 +4557,7 @@
       "armor": 24.544,
       "armorperlevel": 3.3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 425,
       "hpregen": 6.508,
       "hpregenperlevel": 0.6,
@@ -4531,10 +4570,10 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.9
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Urgot.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Urgot.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 336,
       "y": 96
     },
     "description": "There are warriors who become great for their strength, cunning, or skill with arms. Others simply refuse to die. Urgot, once a great soldier of Noxus, may constitute a case in support of the latter. Prone to diving headlong into enemy battle lines..."
@@ -4557,7 +4596,7 @@
       "armor": 23.212,
       "armorperlevel": 3.4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 575,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -4570,10 +4609,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Varus.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Varus.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 384,
       "y": 96
     },
     "description": "''The life of an arrow is fleeting, built of nothing but direction and intent.''<br><br>For his incomparable skill with the bow and his unquestioned sense of honor, Varus was chosen to be the warden of a sacred Ionian temple. The temple was built to..."
@@ -4596,7 +4635,7 @@
       "armor": 19.012,
       "armorperlevel": 3.4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -4609,10 +4648,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 4
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Vayne.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Vayne.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion3.png",
+      "x": 432,
       "y": 96
     },
     "description": "The world is not always as civilized as people might think. There are still those who would follow the blackest paths of magic and become corrupted by the darker powers that flow through Runeterra. Shauna Vayne knows this fact well.<br><br>As a young..."
@@ -4634,7 +4673,7 @@
       "armor": 22.55,
       "armorperlevel": 3.75,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -4647,11 +4686,11 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.24
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Veigar.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Veigar.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion3.png",
-      "x": 432,
-      "y": 96
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 0,
+      "y": 0
     },
     "description": "To most, thoughts of yordles do not conjure images to be feared. The easygoing half-pint race, though fierce, is often regarded with some degree of joviality. Their high-pitched voices and naturally cute forms inspire something of a protective instinct..."
   },
@@ -4672,7 +4711,7 @@
       "armor": 21.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -4685,10 +4724,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Velkoz.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Velkoz.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 48,
       "y": 0
     },
     "description": "I pass into the sudden glare. Blink. Blink, blink, blink. My eyes adjust and evaluate the landscape before me.<br><br>There's a scurrying. I look down to find a small, white creature standing on its hind legs, sniffing at my body. It intrigues me..."
@@ -4724,10 +4763,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Vi.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Vi.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 96,
       "y": 0
     },
     "description": "To Vi, every problem is just another brick wall to punch through with her gigantic hextech gauntlets. Though she grew up on the wrong side of the law, Vi now uses her criminal know-how to serve Piltover's police force. Vi's brash attitude, abrasive..."
@@ -4749,7 +4788,7 @@
       "armor": 22.72,
       "armorperlevel": 4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 7.842,
       "hpregenperlevel": 0.65,
@@ -4762,10 +4801,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Viktor.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Viktor.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 144,
       "y": 0
     },
     "description": "Early in life, Viktor discovered his passion for science and invention, particularly in the field of mechanical automation. He attended Zaun's prestigious College of Techmaturgy and led the team that constructed Blitzcrank - a scientific breakthrough..."
@@ -4788,7 +4827,7 @@
       "armor": 23,
       "armorperlevel": 3.3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 450,
       "hpregen": 7.008,
       "hpregenperlevel": 0.6,
@@ -4801,10 +4840,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Vladimir.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Vladimir.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 192,
       "y": 0
     },
     "description": "There is a temple hidden in the mountains between Noxus and the Tempest Flats, where the secrets of an ancient and terrifying sorcery are kept. The area surrounding the temple is littered with the exsanguinated corpses of those who have mistakenly..."
@@ -4840,10 +4879,10 @@
       "attackspeedoffset": -0.05,
       "attackspeedperlevel": 2.67
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Volibear.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Volibear.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 240,
       "y": 0
     },
     "description": "The unforgiving northern reaches of the Freljord are home to the Ursine, a fierce and warlike race that has endured the barren tundra for thousands of years. Their leader is a furious adversary who commands the force of lightning to strike fear within..."
@@ -4879,10 +4918,10 @@
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 2.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Warwick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Warwick.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 288,
       "y": 0
     },
     "description": "Warwick is a monster who hunts the gray alleys of Zaun. Transformed by agonizing experiments, his body is fused with an intricate system of chambers and pumps, machinery filling his veins with alchemical rage. Bursting out of the shadows, he preys upon..."
@@ -4904,7 +4943,7 @@
       "armor": 24,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 6,
       "hpregenperlevel": 0.75,
@@ -4917,10 +4956,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 3.3
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Xayah.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Xayah.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 288,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 336,
       "y": 0
     },
     "description": "Deadly and precise, Xayah is a vastayan revolutionary waging a personal war to save her people. She uses her speed, guile, and razor-sharp feather blades to cut down anyone who stands in her way. Xayah fights alongside her partner and lover, Rakan, to..."
@@ -4943,7 +4982,7 @@
       "armor": 21.88,
       "armorperlevel": 3.5,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 525,
       "hpregen": 5.424,
       "hpregenperlevel": 0.55,
@@ -4956,10 +4995,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 1.36
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Xerath.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Xerath.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 336,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 384,
       "y": 0
     },
     "description": "''A lifetime as a slave has prepared me for eternity as your master.''<br><br>Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the..."
@@ -4995,10 +5034,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/XinZhao.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/XinZhao.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 384,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 432,
       "y": 0
     },
     "description": "''Death is inevitable, one can only avoid defeat.''<br><br>Whenever Jarvan III, the king of Demacia, delivers one of his rallying speeches from the glinting marble balcony atop the Royal Palace, Xin Zhao is at his side. Coined the Seneschal of Demacia..."
@@ -5021,7 +5060,7 @@
       "armor": 24.712,
       "armorperlevel": 3.4,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 175,
       "hpregen": 6.512,
       "hpregenperlevel": 0.9,
@@ -5034,11 +5073,11 @@
       "attackspeedoffset": -0.067,
       "attackspeedperlevel": 2.5
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Yasuo.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Yasuo.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 432,
-      "y": 0
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 0,
+      "y": 48
     },
     "description": "Yasuo is a man of resolve, an agile swordsman who wields the wind itself to cut down his foes. This once-proud warrior has been disgraced by a false accusation and forced into a desperate fight for survival. With the world turned against him, he will do..."
   },
@@ -5073,10 +5112,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Yorick.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Yorick.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 0,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 48,
       "y": 48
     },
     "description": "''These isles… How they scream.''<br>The last survivor of a long-forgotten religious order, Yorick is both blessed and cursed with power over the dead. Trapped on the Shadow Isles, his only companions are the rotting corpses and shrieking spirits that..."
@@ -5091,31 +5130,31 @@
       "Fighter"
     ],
     "stats": {
-      "hp": 614.6,
+      "hp": 615,
       "hpperlevel": 95,
       "mp": 0,
       "mpperlevel": 0,
       "movespeed": 340,
-      "armor": 23.88,
+      "armor": 24,
       "armorperlevel": 3.5,
-      "spellblock": 32.1,
+      "spellblock": 32,
       "spellblockperlevel": 1.25,
       "attackrange": 175,
-      "hpregen": 7.924,
-      "hpregenperlevel": 0.55,
+      "hpregen": 8,
+      "hpregenperlevel": 0.5,
       "mpregen": 0,
       "mpregenperlevel": 0,
       "crit": 0,
       "critperlevel": 0,
-      "attackdamage": 59.67,
-      "attackdamageperlevel": 3.375,
+      "attackdamage": 60,
+      "attackdamageperlevel": 3.4,
       "attackspeedoffset": -0.02,
       "attackspeedperlevel": 1.6
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Zac.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Zac.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 48,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 96,
       "y": 48
     },
     "description": "Zac is the product of a Zaun experiment to manufacture a hexchem-engineered supersoldier - the Zaun Amorphous Combatant. Combining brute strength with limitless flexibility, he is a versatile juggernaut: a creative fighter who bounces over obstacles and..."
@@ -5151,10 +5190,10 @@
       "attackspeedoffset": -0.03,
       "attackspeedperlevel": 2.1
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Zed.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Zed.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 96,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 144,
       "y": 48
     },
     "description": "Zed is the first ninja in 200 years to unlock the ancient, forbidden ways. He defied his clan and master, casting off the balance and discipline that had shackled him all his life. Zed now offers power to those who embrace knowledge of the shadows, and..."
@@ -5176,7 +5215,7 @@
       "armor": 21.544,
       "armorperlevel": 3.3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 6.258,
       "hpregenperlevel": 0.6,
@@ -5189,10 +5228,10 @@
       "attackspeedoffset": -0.0473,
       "attackspeedperlevel": 2
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Ziggs.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Ziggs.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 144,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 192,
       "y": 48
     },
     "description": "Ziggs was born with a talent for tinkering, but his chaotic, hyperactive nature was unusual among yordle scientists. Aspiring to be a revered inventor like Heimerdinger, he rattled through ambitious projects with manic zeal, emboldened by both his..."
@@ -5215,7 +5254,7 @@
       "armor": 19.134,
       "armorperlevel": 3.8,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 550,
       "hpregen": 5.44,
       "hpregenperlevel": 0.5,
@@ -5228,10 +5267,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.13
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Zilean.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Zilean.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 192,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 240,
       "y": 48
     },
     "description": "In the wastelands of Urtistan, there was once a great city. It perished long ago in a terrible Rune War, like most of the lands below the Great Barrier. Nevertheless, one man survived: a sorcerer named Zilean. Being obsessed with time, it was only..."
@@ -5254,7 +5293,7 @@
       "armor": 20.04,
       "armorperlevel": 3,
       "spellblock": 30,
-      "spellblockperlevel": 0,
+      "spellblockperlevel": 0.5,
       "attackrange": 575,
       "hpregen": 5.69,
       "hpregenperlevel": 0.5,
@@ -5267,10 +5306,10 @@
       "attackspeedoffset": 0,
       "attackspeedperlevel": 2.11
     },
-    "icon": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/champion/Zyra.png",
+    "icon": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/champion/Zyra.png",
     "sprite": {
-      "url": "http://ddragon.leagueoflegends.com/cdn/7.8.1/img/sprite/champion4.png",
-      "x": 240,
+      "url": "http://ddragon.leagueoflegends.com/cdn/7.14.1/img/sprite/champion4.png",
+      "x": 288,
       "y": 48
     },
     "description": "Longing to take control of her fate, the ancient, dying plant Zyra transferred her consciousness into a human body for a second chance at life. Centuries ago, she and her kind dominated the Kumungu Jungle, using thorns and vines to consume any animal..."
