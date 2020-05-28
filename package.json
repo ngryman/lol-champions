@@ -7,7 +7,7 @@
   "repository": "ngryman/lol-champions",
   "main": "champions.json",
   "engines": {
-    "node": ">=4"
+    "node": ">=10"
   },
   "files": [
     "champions.json"
