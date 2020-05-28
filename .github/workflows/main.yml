@@ -11,9 +11,11 @@ on:
   - cron: "0 0 * * *"
 
 jobs:
-  build:
+  update_champions:
     runs-on: ubuntu-latest
-    continue-on-error: true
+    outputs:
+      needs_publish: ${{ steps.build.outputs.needs_publish }}
+      version_number: ${{ steps.build.outputs.version_number }}
     steps:
     - uses: actions/checkout@v2
 
@@ -23,8 +25,19 @@ jobs:
       run: yarn install --frozen-lockfile
     
     - name: Build a new version
+      id: build
       run: yarn build
     
-    - name: Publish new version
-      if: success()
-      run: echo "Publishing new version..."
+  publish:
+    needs: update_champions
+    runs-on: ubuntu-latest
+    if: ${{ needs.update_champions.outputs.needs_publish }}
+    steps:
+    - name: Commit changes
+      uses: zwaldowski/git-commit-action@v1
+      with:
+        commit_message: "release: ${{ jobs.update_champions.steps.build.outputs.version_number }}"
+    - name: Publish changes
+      run: npm publish
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
