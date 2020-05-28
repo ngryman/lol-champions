@@ -33,7 +33,12 @@ jobs:
         git add .
         git commit --no-verify --message="release: ${{ steps.build.outputs.version_number }}"
         git tag --annotate "${{ steps.build.outputs.version_number }}" --message="v${{ steps.build.outputs.version_number }}"
-        git push --push-option=ci.skip --tags
+      
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        tags: true
     
     # From: https://sergiodxa.com/articles/github-actions-npm-publish/
     - name: Publish changes
