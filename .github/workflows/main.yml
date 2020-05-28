@@ -27,12 +27,16 @@ jobs:
     
     - name: Commit changes
       if: ${{ steps.build.outputs.needs_publish }}
-      uses: zwaldowski/git-commit-action@v1
-      with:
-        commit_message: "release: ${{ needs.update_champions.steps.build.outputs.version_number }}"
+      run: |
+        git config --local user.name GitHub Actions
+        git config --local user.email actions@github.com
+        git commit --no-verify -m "release: ${{ steps.build.outputs.version_number }}"
+        git tag -a "v${{ steps.build.outputs.version_number }}"
+        git push --push-option=ci.skip --tags
     
-    - name: Publish changes
-      if: ${{ steps.build.outputs.needs_publish }}
-      run: npm publish
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+#     # From: https://sergiodxa.com/articles/github-actions-npm-publish/
+#     - name: Publish changes
+#       if: ${{ steps.build.outputs.needs_publish }}
+#       run: npm publish
+#       env:
+#         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
