@@ -44,7 +44,7 @@ function saveVersion(version) {
   writeFileSync('package.json', pkgContent)
 }
 
-export default async function build() {
+async function build() {
   const version = await fetchLatestVersion()
   if (!needsUpdate(version)) {
     process.exit(2)
@@ -56,3 +56,5 @@ export default async function build() {
   saveChampions(champions)
   saveVersion(version)
 }
+
+build()
