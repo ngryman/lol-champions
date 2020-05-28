@@ -19,10 +19,11 @@ jobs:
 
     - uses: actions/setup-node@v1.4.2
 
-    - name: Install & build
-      run: |
-        yarn install --frozen-lockfile
-        if [[ -z $(git diff --name-only) ]]; then exit 1; fi
+    - name: Install dependencies
+      run: yarn install --frozen-lockfile
+    
+    - name: Build a new version
+      run: yarn build
     
     - name: Publish new version
       if: success()
