@@ -1,5 +1,6 @@
 import got from 'got'
 import sanitize from 'lol-champions/sanitize'
+import { writeFileSync } from 'fs'
 
 export const DDRAGON_URL = 'http://ddragon.leagueoflegends.com'
 
@@ -15,6 +16,11 @@ async function fetchChampionsMap(version) {
   return champions
 }
 
+function needsUpdate(version) {
+  const currentVersion = require('./package.json').version
+  return version !== currentVersion
+}
+
 function transform(version, championsMap) {
   const baton = { championsMap, imagesUrl: `${DDRAGON_URL}/cdn/${version}/img` }
 
@@ -28,8 +34,14 @@ function transform(version, championsMap) {
   return champions
 }
 
-export default async function fetch() {
+export default async function build() {
   const version = await fetchLatestVersion()
+  if (!needsUpdate(version)) {
+    process.exit(2)
+    return
+  }
+
   const championsMap = await fetchChampionsMap(version)
-  return transform(version, championsMap)
+  const champions = transform(version, championsMap)
+  writeFileSync('champions.json', JSON.stringify(champions, 0, 2))
 }

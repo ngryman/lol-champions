@@ -17,9 +17,8 @@
     "spec": "babel-node test.js | tap-spec",
     "test": "npm run lint -s && npm run spec -s",
     "watch": "onchange {,**/}*.js -- npm test -s",
-    "build": "babel-node -e \"require('./fetch').default().then((champions) => require('fs').writeFileSync('champions.json', JSON.stringify(champions, 0, 2)))\"",
-    "prebuild": "ln -nsf ../lib node_modules/lol-champions",
-    "prepublish": "npm run build -s"
+    "build": "babel-node build.js",
+    "prebuild": "ln -nsf ../lib node_modules/lol-champions"
   },
   "keywords": [
     "lol",
