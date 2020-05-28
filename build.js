@@ -46,15 +46,18 @@ function saveVersion(version) {
 
 async function build() {
   const version = await fetchLatestVersion()
-  if (!needsUpdate(version)) {
-    process.exit(2)
-  }
+  if (!needsUpdate(version)) return
 
   const championsMap = await fetchChampionsMap(version)
   const champions = transform(version, championsMap)
 
   saveChampions(champions)
   saveVersion(version)
+
+  if (process.env.CI) {
+    console.log('::set-output name=needs_publish::true')
+    console.log(`::set-output name=version_number::${version}`)
+  }
 }
 
 build()
