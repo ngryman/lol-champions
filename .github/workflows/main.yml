@@ -43,7 +43,7 @@ jobs:
     
     # From: https://sergiodxa.com/articles/github-actions-npm-publish/
     - name: Publish changes
-      #if: ${{ steps.build.outputs.needs_publish }}
+      if: ${{ steps.build.outputs.needs_publish }}
       run: |
         npm config set //registry.npmjs.org/:_authToken=${{ secrets.NPM_TOKEN }}
         npm publish
