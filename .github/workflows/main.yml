@@ -36,7 +36,7 @@ jobs:
     - name: Commit changes
       uses: zwaldowski/git-commit-action@v1
       with:
-        commit_message: "release: ${{ jobs.update_champions.steps.build.outputs.version_number }}"
+        commit_message: "release: ${{ needs.update_champions.steps.build.outputs.version_number }}"
     - name: Publish changes
       run: npm publish
       env:
