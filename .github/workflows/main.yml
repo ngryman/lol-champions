@@ -30,7 +30,8 @@ jobs:
       run: |
         git config --local user.name GitHub Actions
         git config --local user.email actions@github.com
-        git commit --no-verify -am "release: ${{ steps.build.outputs.version_number }}"
+        git add .
+        git commit --no-verify --message="release: ${{ steps.build.outputs.version_number }}"
         git tag -a "v${{ steps.build.outputs.version_number }}"
         git push --push-option=ci.skip --tags
     
