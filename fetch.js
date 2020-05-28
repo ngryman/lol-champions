@@ -1,23 +1,35 @@
 import got from 'got'
 import sanitize from 'lol-champions/sanitize'
 
-import { CHAMPIONS_URL } from 'lol-champions/constants'
+export const DDRAGON_URL = 'http://ddragon.leagueoflegends.com'
 
-export default function() {
-  return got(CHAMPIONS_URL).then((res) => {
-    let championsMap = JSON.parse(res.body).data
-    let baton = { championsMap }
+async function fetchLatestVersion() {
+  const res = await got(`${DDRAGON_URL}/api/versions.json`)
+  const versions = JSON.parse(res.body)
+  return versions[0]
+}
 
-    let champions = Object.keys(championsMap)
+async function fetchChampionsMap(version) {
+  const res = await got(`${DDRAGON_URL}/cdn/${version}/data/en_US/champion.json`)
+  const champions = JSON.parse(res.body).data
+  return champions
+}
+
+function transform(version, championsMap) {
+  const baton = { championsMap, imagesUrl: `${DDRAGON_URL}/cdn/${version}/img` }
+
+  const champions = Object.keys(championsMap)
     .map((id) => {
       championsMap[id].id = id.toLowerCase()
       return championsMap[id]
     })
+    .map((champion) => sanitize(champion, baton))
 
-    for (let champion of champions) {
-      sanitize(champion, baton)
-    }
+  return champions
+}
 
-    return champions
-  })
+export default async function fetch() {
+  const version = await fetchLatestVersion()
+  const championsMap = await fetchChampionsMap(version)
+  return transform(version, championsMap)
 }
