@@ -32,8 +32,8 @@ jobs:
         git config --local user.email actions@github.com
         git add .
         git commit --no-verify --message="release: ${{ steps.build.outputs.version_number }}"
-        git tag -a "v${{ steps.build.outputs.version_number }}"
-        git push --push-option=ci.skip --tags
+#        git tag -a "v${{ steps.build.outputs.version_number }}"
+#        git push --push-option=ci.skip --tags
     
 #     # From: https://sergiodxa.com/articles/github-actions-npm-publish/
 #     - name: Publish changes
