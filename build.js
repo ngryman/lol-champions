@@ -34,14 +34,25 @@ function transform(version, championsMap) {
   return champions
 }
 
+function saveChampions(champions) {
+  writeFileSync('champions.json', JSON.stringify(champions, 0, 2))
+}
+
+function saveVersion(version) {
+  let pkgContent = JSON.stringify(require('./package.json'), 0, 2)
+  pkgContent = pkgContent.replace(/"version": "([\d.]+)"/, `"version": "${version}"`)
+  writeFileSync('package.json', pkgContent)
+}
+
 export default async function build() {
   const version = await fetchLatestVersion()
   if (!needsUpdate(version)) {
     process.exit(2)
-    return
   }
 
   const championsMap = await fetchChampionsMap(version)
   const champions = transform(version, championsMap)
-  writeFileSync('champions.json', JSON.stringify(champions, 0, 2))
+
+  saveChampions(champions)
+  saveVersion(version)
 }
