@@ -11,11 +11,8 @@ on:
   - cron: "0 0 * * *"
 
 jobs:
-  update_champions:
+  publish:
     runs-on: ubuntu-latest
-    outputs:
-      needs_publish: ${{ steps.build.outputs.needs_publish }}
-      version_number: ${{ steps.build.outputs.version_number }}
     steps:
     - uses: actions/checkout@v2
 
@@ -28,16 +25,14 @@ jobs:
       id: build
       run: yarn build
     
-  publish:
-    needs: update_champions
-    runs-on: ubuntu-latest
-    if: ${{ needs.update_champions.outputs.needs_publish }}
-    steps:
     - name: Commit changes
+      if: ${{ steps.build.outputs.needs_publish }}
       uses: zwaldowski/git-commit-action@v1
       with:
         commit_message: "release: ${{ needs.update_champions.steps.build.outputs.version_number }}"
+    
     - name: Publish changes
+      if: ${{ steps.build.outputs.needs_publish }}
       run: npm publish
       env:
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
