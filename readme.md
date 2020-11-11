@@ -1,5 +1,7 @@
 # lol-champions [![npm][npm-image]][npm-url] [![travis][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ngryman/lol-champions.svg)](https://greenkeeper.io/)
+
 [npm-image]: https://img.shields.io/npm/v/lol-champions.svg?style=flat
 [npm-url]: https://npmjs.org/package/lol-champions
 [travis-image]: https://img.shields.io/travis/ngryman/lol-champions.svg?style=flat
