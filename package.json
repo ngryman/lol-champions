@@ -1,6 +1,6 @@
 {
   "name": "lol-champions",
-  "version": "10.23.1",
+  "version": "12.17.1",
   "description": "Simplified, up-to-date, League of Legends champions list.",
   "author": "Nicolas Gryman <ngryman@gmail.com> (http://ngryman.sh)",
   "license": "MIT",
@@ -28,17 +28,17 @@
     "api"
   ],
   "dependencies": {
-    "got": "^6.5.0",
-    "object-values": "^1.0.0"
+    "got": "^11.8.1",
+    "object-values": "^2.0.0"
   },
   "devDependencies": {
-    "babel-cli": "^6.16.0",
-    "babel-preset-es2015": "^6.16.0",
-    "babel-preset-es2017": "^6.16.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
     "blue-tape": "^1.0.0",
-    "eslint": "^3.8.1",
-    "eslint-config-ngryman": "^1.7.0",
-    "onchange": "^3.0.2",
-    "tap-spec": "^4.0.2"
+    "eslint": "^7.17.0",
+    "eslint-config-ngryman": "^1.7.1",
+    "onchange": "^7.1.0",
+    "tap-spec": "^5.0.0"
   }
 }
